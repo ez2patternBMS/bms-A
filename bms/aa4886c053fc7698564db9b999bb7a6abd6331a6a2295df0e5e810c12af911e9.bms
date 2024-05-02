@@ -1,0 +1,4606 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE KYRIE
+#TITLE Armageddon -Dimension Breaker-
+#ARTIST ZUN remixed by LeaF
+#BPM 210
+#PLAYLEVEL 27
+#RANK 3
+#TOTAL 950
+#STAGEFILE _title.png
+
+#WAV01 braeks2_000.wav
+#WAV02 braeks2_001.wav
+#WAV03 braeks2_002.wav
+#WAV04 braeks2_003.wav
+#WAV05 braeks2_004.wav
+#WAV06 braeks2_005.wav
+#WAV07 braeks2_006.wav
+#WAV08 braeks2_007.wav
+#WAV09 braeks2_008.wav
+#WAV0A braeks2_009.wav
+#WAV0B braeks2_010.wav
+#WAV0C breaks1_000.wav
+#WAV0D breaks1_001.wav
+#WAV0E breaks1_002.wav
+#WAV0F breaks1_003.wav
+#WAV0G breaks1_004.wav
+#WAV0H breaks1_005.wav
+#WAV0I breaks1_006.wav
+#WAV0J breaks1_007.wav
+#WAV0K breaks1_008.wav
+#WAV0L breaks1_009.wav
+#WAV0M breaks1_010.wav
+#WAV0N cymbal_rev.wav
+#WAV0O cymbal1.wav
+#WAV0P cymbal2.wav
+#WAV0Q cymbal3.wav
+#WAV0R cymbal4.wav
+#WAV0S cymbal5.wav
+#WAV0T hat_f8.wav
+#WAV0U hat_f32.wav
+#WAV0V hat_p.wav
+#WAV0W hatloop_1.wav
+#WAV0X hatloop_2.wav
+#WAV0Y hatloop_3.wav
+#WAV0Z hatloop_4.wav
+#WAV10 hatloop_5.wav
+#WAV11 hatloop_6.wav
+#WAV12 hatloop_7.wav
+#WAV13 hatloop_8.wav
+#WAV14 hatloop_9.wav
+#WAV15 hatloop_10.wav
+#WAV16 hatloop_11.wav
+#WAV17 hatloop_12.wav
+#WAV18 kick.wav
+#WAV19 kick_phase.wav
+#WAV1A kick_sub.wav
+#WAV1B snare.wav
+#WAV1C snare_f_a.wav
+#WAV1D snare_f_b.wav
+#WAV1E snare_ff.wav
+#WAV1F snareroll1.wav
+#WAV1G snareroll2.wav
+#WAV1H orch_bassdrum1.wav
+#WAV1I orch_bassdrum2.wav
+#WAV1J orch_bassdrum3.wav
+#WAV1K orch_bassdrum4.wav
+#WAV1L orch_cymbal1.wav
+#WAV1M orch_cymbal2.wav
+#WAV1N orch_cymbal3.wav
+#WAV1O orch_percus1.wav
+#WAV1P orch_percus2.wav
+#WAV1Q orch_percus3.wav
+#WAV1R orch_percus4.wav
+#WAV1S orch_percus5.wav
+#WAV1T orch_snare1.wav
+#WAV1U orch_snare2.wav
+#WAV1V orch_snare3.wav
+#WAV1W orch_snare4.wav
+#WAV1X orch_snare5.wav
+#WAV1Y orch_snare6.wav
+#WAV1Z orch_snare7.wav
+#WAV20 orch_tamb1.wav
+#WAV21 orch_tamb2.wav
+#WAV22 orch_tamb3.wav
+#WAV23 orch_tamb4.wav
+#WAV24 brast1.wav
+#WAV25 brast2.wav
+#WAV26 brast3.wav
+#WAV27 brast5.wav
+#WAV28 brast6_001.wav
+#WAV29 brast6_002.wav
+#WAV2A brast6_003.wav
+#WAV2B brast6_004.wav
+#WAV2C brast6_005.wav
+#WAV2D brast6_006.wav
+#WAV2E brast7_000.wav
+#WAV2F brast7_001.wav
+#WAV2G brast7_002.wav
+#WAV2H brast8_000.wav
+#WAV2I brast8_001.wav
+#WAV2J brast8_002.wav
+#WAV2K brast8_003.wav
+#WAV2L brast8_004.wav
+#WAV2M brast8_005.wav
+#WAV2N fx_cinema1.wav
+#WAV2O fx_cinema2.wav
+#WAV2P fx_cinema3.wav
+#WAV2Q fx_cinema4.wav
+#WAV2R fx_cinema5.wav
+#WAV2S fx_cinema6.wav
+#WAV2T fx_cinema7.wav
+#WAV2U fx_cinema8.wav
+#WAV2V fx_cinema9.wav
+#WAV2W fx1.wav
+#WAV2X fx2.wav
+#WAV2Y fx3.wav
+#WAV2Z fx4.wav
+#WAV30 fx5.wav
+#WAV31 fx6.wav
+#WAV32 fxloop1_000.wav
+#WAV33 fxloop1_001.wav
+#WAV34 fxloop1_002.wav
+#WAV35 fxloop1_003.wav
+#WAV36 fxloop1_004.wav
+#WAV37 fxloop1_005.wav
+#WAV38 fxloop1_006.wav
+#WAV39 fxloop1_007.wav
+#WAV3A fxloop1_008.wav
+#WAV3B noise1_000.wav
+#WAV3C noise1_001.wav
+#WAV3D noise1_002.wav
+#WAV3E noise1_003.wav
+#WAV3F noise1_004.wav
+#WAV3G noise1_005.wav
+#WAV3H noise1_006.wav
+#WAV3I noise1_007.wav
+#WAV3J noise1_008.wav
+#WAV3K noise1_009.wav
+#WAV3L noise1_010.wav
+#WAV3M noise1_011.wav
+#WAV3N noise1_012.wav
+#WAV3O noise1_013.wav
+#WAV3P noise1_014.wav
+#WAV3Q noise1_015.wav
+#WAV3R noise1_016.wav
+#WAV3S noise1_017.wav
+#WAV3T noise1_018.wav
+#WAV3U noise1_019.wav
+#WAV3V noise1_020.wav
+#WAV3W noise1_021.wav
+#WAV3X noise1_022.wav
+#WAV3Y noise1_023.wav
+#WAV3Z noise1_024.wav
+#WAV40 noise1_025.wav
+#WAV41 break_fxloop_000.wav
+#WAV42 break_fxloop_001.wav
+#WAV43 break_fxloop_002.wav
+#WAV44 break_fxloop_003.wav
+#WAV45 break_fxloop_004.wav
+#WAV46 break_fxloop_005.wav
+#WAV47 break_fxloop_006.wav
+#WAV48 break_fxloop_007.wav
+#WAV49 break_fxloop_008.wav
+#WAV4A break_fxloop_009.wav
+#WAV4B break_fxloop_010.wav
+#WAV4C break_fxloop_011.wav
+#WAV4D break_fxloop_012.wav
+#WAV4E horror_string.wav
+#WAV4F blast9.wav
+#WAV4G blast10.wav
+#WAV4H blast11.wav
+#WAV4I blast12.wav
+#WAV4J blast13.wav
+#WAV4K fx_cinema2_2.wav
+#WAV4L fx_cinema10.wav
+#WAV4M fx_cinema11.wav
+#WAV4N fx_cinema12.wav
+#WAV4O fx_cinema13.wav
+#WAV4P fx_cinema14.wav
+#WAV4Q fx_cinema15.wav
+#WAV4R fx_clap1.wav
+#WAV4S fx_clap2.wav
+#WAV4T fx2_2.wav
+#WAV4U fx5_2.wav
+#WAV4V fx5_3.wav
+#WAV4W fx5_4.wav
+#WAV4X fx5_5.wav
+#WAV4Y fx7.wav
+#WAV4Z impact.wav
+#WAV50 brast4_000.wav
+#WAV51 brast4_001.wav
+#WAV52 brast4_002.wav
+#WAV53 brast4_003.wav
+#WAV54 brast4_004.wav
+#WAV55 brast4_005.wav
+#WAV56 brast4_006.wav
+#WAV57 brast4_007.wav
+#WAV58 brast6_000_000.wav
+#WAV59 brast6_000_001.wav
+#WAV5A brast6_000_002.wav
+#WAV5B brast6_000_003.wav
+#WAV5C gabba.wav
+#WAV5D bass_000.wav
+#WAV5E bass_001.wav
+#WAV5F bass_002.wav
+#WAV5G bass_003.wav
+#WAV5H bass_004.wav
+#WAV5I bass_005.wav
+#WAV5J bass_006.wav
+#WAV5K bass_007.wav
+#WAV5L bass_008.wav
+#WAV5M bass_009.wav
+#WAV5N bass_010.wav
+#WAV5O bass_011.wav
+#WAV5P bass_012.wav
+#WAV5Q bass_013.wav
+#WAV5R bass_014.wav
+#WAV5S bass_015.wav
+#WAV5T bass_016.wav
+#WAV5U bass_017.wav
+#WAV5V bass_018.wav
+#WAV5W bass_019.wav
+#WAV5X bass_020.wav
+#WAV5Y bass_021.wav
+#WAV5Z bass_022.wav
+#WAV60 bass_023.wav
+#WAV61 bass_024.wav
+#WAV62 bass_025.wav
+#WAV63 bass_026.wav
+#WAV64 bass_027.wav
+#WAV65 bass_028.wav
+#WAV66 bass_029.wav
+#WAV67 bass_030.wav
+#WAV68 bass_031.wav
+#WAV69 bass_032.wav
+#WAV6A bass_033.wav
+#WAV6B bass_034.wav
+#WAV6C bass_035.wav
+#WAV6D bass_036.wav
+#WAV6E bass_037.wav
+#WAV6F bass_038.wav
+#WAV6G bass_039.wav
+#WAV6H bass_040.wav
+#WAV6I bass_041.wav
+#WAV6J bass_042.wav
+#WAV6K bass_043.wav
+#WAV6L bass_044.wav
+#WAV6M bass_045.wav
+#WAV6N bass_046.wav
+#WAV6O bass_047.wav
+#WAV6P bass_048.wav
+#WAV6Q bass_049.wav
+#WAV6R bass_050.wav
+#WAV6S bass_051.wav
+#WAV6T bass_052.wav
+#WAV6U bass_053.wav
+#WAV6V bass_054.wav
+#WAV6W bass_055.wav
+#WAV6X bass_056.wav
+#WAV6Y bass2.wav
+#WAV6Z bass4.wav
+#WAV70 bass5.wav
+#WAV71 bass3_000.wav
+#WAV72 bass3_001.wav
+#WAV73 bass3_002.wav
+#WAV74 bass3_003.wav
+#WAV75 synth1_000.wav
+#WAV76 synth1_001.wav
+#WAV77 synth1_002.wav
+#WAV78 synth1_003.wav
+#WAV79 synth1_004.wav
+#WAV7A synth1_005.wav
+#WAV7B synth1_006.wav
+#WAV7C synth1_007.wav
+#WAV7D synth1_008.wav
+#WAV7E synth1_009.wav
+#WAV7F synth1_010.wav
+#WAV7G synth1_011.wav
+#WAV7H synth1_012.wav
+#WAV7I synth1_013.wav
+#WAV7J synth2_000.wav
+#WAV7K synth2_001.wav
+#WAV7L synth2_002.wav
+#WAV7M synth2_003.wav
+#WAV7N synth2_004.wav
+#WAV7O synth2_005.wav
+#WAV7P synth2_006.wav
+#WAV7Q synth2_007.wav
+#WAV7R synth2_008.wav
+#WAV7S synth2_009.wav
+#WAV7T synth2_010.wav
+#WAV7U synth2_011.wav
+#WAV7V synth2_012.wav
+#WAV7W synth2_013.wav
+#WAV7X synth2_014.wav
+#WAV7Y synth2_015.wav
+#WAV7Z synth2_016.wav
+#WAV80 synth2_017.wav
+#WAV81 synth2_018.wav
+#WAV82 synth2_019.wav
+#WAV83 synth2_020.wav
+#WAV84 synth2_021.wav
+#WAV85 synth2_022.wav
+#WAV86 synth2_023.wav
+#WAV87 synth2_024.wav
+#WAV88 synth2_025.wav
+#WAV89 synth2_026.wav
+#WAV8A synth2_027.wav
+#WAV8B synth2_028.wav
+#WAV8C synth2_029.wav
+#WAV8D synth2_030.wav
+#WAV8E synth2_031.wav
+#WAV8F synth2_032.wav
+#WAV8G synth2_033.wav
+#WAV8H synth2_034.wav
+#WAV8I synth2_035.wav
+#WAV8J synth2_036.wav
+#WAV8K synth2_037.wav
+#WAV8L synth2_038.wav
+#WAV8M synth2_039.wav
+#WAV8N synth2_040.wav
+#WAV8O synth2_041.wav
+#WAV8P synth2_042.wav
+#WAV8Q synth2_043.wav
+#WAV8R synth2_044.wav
+#WAV8S synth2_045.wav
+#WAV8T synth2_046.wav
+#WAV8U synth2_047.wav
+#WAV8V synth2_048.wav
+#WAV8W synth2_049.wav
+#WAV8X synth2_050.wav
+#WAV8Y synth2_051.wav
+#WAV8Z synth2_052.wav
+#WAV90 synth2_053.wav
+#WAV91 synth2_054.wav
+#WAV92 synth2_055.wav
+#WAV93 synth2_056.wav
+#WAV94 synth2_057.wav
+#WAV95 synth2_058.wav
+#WAV96 synth2_059.wav
+#WAV97 synth2_060.wav
+#WAV98 synth2_061.wav
+#WAV99 synth2_062.wav
+#WAV9A synth2_063.wav
+#WAV9B synth2_064.wav
+#WAV9C synth2_065.wav
+#WAV9D synth2_066.wav
+#WAV9E synth2_067.wav
+#WAV9F synth2_068.wav
+#WAV9G synth2_069.wav
+#WAV9H synth2_070.wav
+#WAV9I synth2_071.wav
+#WAV9J synth2_072.wav
+#WAV9K synth2_073.wav
+#WAV9L synth2_074.wav
+#WAV9M synth2_075.wav
+#WAV9N synth2_076.wav
+#WAV9O synth2_077.wav
+#WAV9P synth2_078.wav
+#WAV9Q synth2_079.wav
+#WAV9R synth2_080.wav
+#WAV9S synth2_081.wav
+#WAV9T synth2_082.wav
+#WAV9U synth2_083.wav
+#WAV9V synth2_084.wav
+#WAV9W synth2_085.wav
+#WAV9X synth2_086.wav
+#WAV9Y synth2_087.wav
+#WAV9Z synth2_088.wav
+#WAVA0 synth2_089.wav
+#WAVA1 synth2_090.wav
+#WAVA2 synth2_091.wav
+#WAVA3 synth2_092.wav
+#WAVA4 synth2_093.wav
+#WAVA5 synth3_001.wav
+#WAVA6 synth3_002.wav
+#WAVA7 synth3_003.wav
+#WAVA8 synth3_004.wav
+#WAVA9 synth3_005.wav
+#WAVAA synth3_006.wav
+#WAVAB synth3_007.wav
+#WAVAC synth3_012.wav
+#WAVAD synth3_013.wav
+#WAVAE synth3_014.wav
+#WAVAF synth3_015.wav
+#WAVAG synth3_016.wav
+#WAVAH synth3_017.wav
+#WAVAI synth3_018.wav
+#WAVAJ synth3_019.wav
+#WAVAK synth3_020.wav
+#WAVAL synth3_021.wav
+#WAVAM synth3_022.wav
+#WAVAN synth3_023.wav
+#WAVAO synth3_024.wav
+#WAVAP synth3_027.wav
+#WAVAQ synth3_028.wav
+#WAVAR synth3_029.wav
+#WAVAS synth3_031.wav
+#WAVAT synth3_040.wav
+#WAVAU synth3_041.wav
+#WAVAV synth3_042.wav
+#WAVAW synth3_043.wav
+#WAVAX synth3_044.wav
+#WAVAY synth3_045.wav
+#WAVAZ synth3_046.wav
+#WAVB0 synth3_047.wav
+#WAVB1 synth3_054.wav
+#WAVB2 synth3_061.wav
+#WAVB3 synth4_000.wav
+#WAVB4 synth4_001.wav
+#WAVB5 synth4_002.wav
+#WAVB6 synth4_003.wav
+#WAVB7 synth4_004.wav
+#WAVB8 synth4_005.wav
+#WAVB9 synth4_006.wav
+#WAVBA synth4_007.wav
+#WAVBB synth4_008.wav
+#WAVBC synth4_009.wav
+#WAVBD synth4_010.wav
+#WAVBE synth4_011.wav
+#WAVBF synth4_012.wav
+#WAVBG synth4_013.wav
+#WAVBH synth4_014.wav
+#WAVBI synth4_015.wav
+#WAVBJ synth4_016.wav
+#WAVBK synth4_017.wav
+#WAVBL synth4_018.wav
+#WAVBM synth4_019.wav
+#WAVBN synth4_020.wav
+#WAVBO synth4_021.wav
+#WAVBP synth4_022.wav
+#WAVBQ synth4_023.wav
+#WAVBR synth4_024.wav
+#WAVBS synth4_025.wav
+#WAVBT synth5_000.wav
+#WAVBU synth5_001.wav
+#WAVBV synth5_002.wav
+#WAVBW synth5_003.wav
+#WAVBX synth5_004.wav
+#WAVBY synth5_005.wav
+#WAVBZ synth5_006.wav
+#WAVC0 synth5_007.wav
+#WAVC1 synth6_1.wav
+#WAVC2 synth6_2.wav
+#WAVC3 synth6_3.wav
+#WAVC4 synth6_4.wav
+#WAVC5 synth6_5.wav
+#WAVC6 synth6_6.wav
+#WAVC7 synth6_7.wav
+#WAVC8 synth6_7_.wav
+#WAVC9 synth6_8.wav
+#WAVCA synth6_9.wav
+#WAVCB synth6_10.wav
+#WAVCC synth6_11.wav
+#WAVCD synth6_12.wav
+#WAVCE synth6_13.wav
+#WAVCF synth6_14.wav
+#WAVCG synth6_15.wav
+#WAVCH synth6_16.wav
+#WAVCI synth6_17.wav
+#WAVCJ synth6_18.wav
+#WAVCK synth6_19.wav
+#WAVCL synth6_20.wav
+#WAVCM synth6_21.wav
+#WAVCN synth6_22.wav
+#WAVCO timpani1.wav
+#WAVCP timpani2.wav
+#WAVCQ timpani3.wav
+#WAVCR timpani4.wav
+#WAVCS timpani5.wav
+#WAVCT timpani6.wav
+#WAVCU timpani7.wav
+#WAVCV choir_fx1_000.wav
+#WAVCW choir_fx1_001.wav
+#WAVCX choir_fx1_003.wav
+#WAVCY choir_fx1_004.wav
+#WAVCZ choir_fx1_005.wav
+#WAVD0 choir_fx1_006.wav
+#WAVD1 choir_fx1_009.wav
+#WAVD2 choir_fx1_008.wav
+#WAVD3 choir_fx1_015.wav
+#WAVD4 choir_fx1_017.wav
+#WAVD5 choir_fx1_019.wav
+#WAVD6 choir1_000.wav
+#WAVD7 choir1_001.wav
+#WAVD8 choir1_002.wav
+#WAVD9 choir1_003.wav
+#WAVDA choir1_004.wav
+#WAVDB choir1_005.wav
+#WAVDC choir1_006.wav
+#WAVDD choir1_007.wav
+#WAVDE choir1_008.wav
+#WAVDF choir1_009.wav
+#WAVDG choir1_010.wav
+#WAVDH choir1_011.wav
+#WAVDI choir1_012.wav
+#WAVDJ choir1_013.wav
+#WAVDK choir1_014.wav
+#WAVDL choir1_015.wav
+#WAVDM choir_fx2.wav
+#WAVDN choir_fx3.wav
+#WAVDO choir_fx4.wav
+#WAVDP choir_fx5.wav
+#WAVDQ choir_fx6.wav
+#WAVDR choir_fx7.wav
+#WAVDS choir3_000.wav
+#WAVDT choir3_001.wav
+#WAVDU choir3_002.wav
+#WAVDV choir3_003.wav
+#WAVDW choir3_004.wav
+#WAVDX choir3_005.wav
+#WAVDY choir3_006.wav
+#WAVDZ choir3_007.wav
+#WAVE0 choir3_008.wav
+#WAVE1 choir3_009.wav
+#WAVE2 choir3_010.wav
+#WAVE3 choir3_011.wav
+#WAVE4 choir3_012.wav
+#WAVE5 choir3_013.wav
+#WAVE6 choir3_014.wav
+#WAVE7 choir3_015.wav
+#WAVE8 choir3_1_000.wav
+#WAVE9 choir3_1_001.wav
+#WAVEA choir3_2_000.wav
+#WAVEB choir3_2_001.wav
+#WAVEC choir4.wav
+#WAVED choir5_000.wav
+#WAVEE choir5_001.wav
+#WAVEF choir5_002.wav
+#WAVEG choir5_003.wav
+#WAVEH choir5_004.wav
+#WAVEI choir5_005.wav
+#WAVEJ choir5_006.wav
+#WAVEK choir5_007.wav
+#WAVEL choir5_008.wav
+#WAVEM choir5_009.wav
+#WAVEN choir5_010.wav
+#WAVEO choir6_000.wav
+#WAVEP choir6_001.wav
+#WAVEQ choir6_002.wav
+#WAVER choir6_003.wav
+#WAVES choir6_004.wav
+#WAVET choir6_005.wav
+#WAVEU choir6_006.wav
+#WAVEV choir6_007.wav
+#WAVEW choir6_008.wav
+#WAVEX choir6_009.wav
+#WAVEY choir6_010.wav
+#WAVEZ choir6_011.wav
+#WAVF0 choir6_012.wav
+#WAVF1 choir6_013.wav
+#WAVF2 choir6_014.wav
+#WAVF3 choir6_015.wav
+#WAVF4 choir6_016.wav
+#WAVF5 choir6_017.wav
+#WAVF6 choir6_021.wav
+#WAVF7 chor6_x.wav
+#WAVF8 choir6_xx_002.wav
+#WAVF9 piano_fx1_000.wav
+#WAVFA piano_fx1_001.wav
+#WAVFB piano_fx1_002.wav
+#WAVFC piano_fx1_003.wav
+#WAVFD piano_fx1_004.wav
+#WAVFE piano_fx1_005.wav
+#WAVFF piano_fx1_006.wav
+#WAVFG piano_fx1_007.wav
+#WAVFH piano_fx1_008.wav
+#WAVFI piano_fx2_000.wav
+#WAVFJ piano_fx2_001.wav
+#WAVFK piano_fx2_002.wav
+#WAVFL piano_fx2_003.wav
+#WAVFM piano_fx2_004.wav
+#WAVFN piano_fx2_005.wav
+#WAVFO piano_fx2_006.wav
+#WAVFP piano_fx2_007.wav
+#WAVFQ piano_fx2_008.wav
+#WAVFR piano_fx2_009.wav
+#WAVFS piano_fx2_010.wav
+#WAVFT piano_fx2_011.wav
+#WAVFU piano_fx2_012.wav
+#WAVFV piano_fx2_013.wav
+#WAVFW piano_fx2_014.wav
+#WAVFX piano_fx2_015.wav
+#WAVFY piano_fx3_000.wav
+#WAVFZ piano_fx3_001.wav
+#WAVG0 piano_fx3_002.wav
+#WAVG1 piano_fx3_003.wav
+#WAVG2 piano_fx3_004.wav
+#WAVG3 piano_fx3_005.wav
+#WAVG4 piano_fx4_000.wav
+#WAVG5 piano_fx4_001.wav
+#WAVG6 piano_fx4_002.wav
+#WAVG7 piano_fx4_003.wav
+#WAVG8 piano_fx4_004.wav
+#WAVG9 piano_fx4_005.wav
+#WAVGA piano1_1.wav
+#WAVGB piano1_2.wav
+#WAVGC piano1_3.wav
+#WAVGD piano1_4.wav
+#WAVGE piano1_5.wav
+#WAVGF piano1_6.wav
+#WAVGG piano1_7.wav
+#WAVGH piano1_8.wav
+#WAVGI piano1_9.wav
+#WAVGJ piano1_10.wav
+#WAVGK piano1_11.wav
+#WAVGL piano1_12.wav
+#WAVGM piano1_13.wav
+#WAVGN piano1_14.wav
+#WAVGO piano1_15.wav
+#WAVGP piano1_16.wav
+#WAVGQ piano1_17.wav
+#WAVGR piano1_18.wav
+#WAVGS piano1_19.wav
+#WAVGT piano1_20.wav
+#WAVGU piano1_21.wav
+#WAVGV piano1_22.wav
+#WAVGW piano1_23.wav
+#WAVGX piano1_24.wav
+#WAVGY piano1_25.wav
+#WAVGZ piano2_000.wav
+#WAVH0 piano2_001.wav
+#WAVH1 piano2_002.wav
+#WAVH2 piano2_003.wav
+#WAVH3 piano2_004.wav
+#WAVH4 piano2_005.wav
+#WAVH5 piano2_006.wav
+#WAVH6 piano2_007.wav
+#WAVH7 piano2_008.wav
+#WAVH8 piano2_009.wav
+#WAVH9 piano2_010.wav
+#WAVHA piano2_011.wav
+#WAVHB piano3_1.wav
+#WAVHC piano3_2.wav
+#WAVHD piano3_3.wav
+#WAVHE piano3_4.wav
+#WAVHF piano3_5.wav
+#WAVHG piano4_000.wav
+#WAVHH piano4_001.wav
+#WAVHI piano4_002.wav
+#WAVHJ piano4_003.wav
+#WAVHK piano4_004.wav
+#WAVHL piano4_005.wav
+#WAVHM piano4_006.wav
+#WAVHN piano4_007.wav
+#WAVHO piano4_008.wav
+#WAVHP piano4_009.wav
+#WAVHQ piano4_010.wav
+#WAVHR piano4_011.wav
+#WAVHS piano4_012.wav
+#WAVHT piano4_013.wav
+#WAVHU piano4_014.wav
+#WAVHV piano4_015.wav
+#WAVHW piano4_016.wav
+#WAVHX piano4_017.wav
+#WAVHY piano4_018.wav
+#WAVHZ piano4_019.wav
+#WAVI0 piano4_020.wav
+#WAVI1 piano4_021.wav
+#WAVI2 piano4_022.wav
+#WAVI3 piano4_023.wav
+#WAVI4 piano4_024.wav
+#WAVI5 piano4_025.wav
+#WAVI6 piano4_026.wav
+#WAVI7 piano4_027.wav
+#WAVI8 piano4_028.wav
+#WAVI9 piano4_029.wav
+#WAVIA piano4_030.wav
+#WAVIB piano4_031.wav
+#WAVIC piano4_032.wav
+#WAVID piano4_033.wav
+#WAVIE piano4_034.wav
+#WAVIF piano4_035.wav
+#WAVIG piano4_036.wav
+#WAVIH piano4_037.wav
+#WAVII piano4_038.wav
+#WAVIJ piano4_039.wav
+#WAVIK piano4_040.wav
+#WAVIL piano4_041.wav
+#WAVIM piano4_042.wav
+#WAVIN piano4_043.wav
+#WAVIO piano4_044.wav
+#WAVIP piano4_045.wav
+#WAVIQ piano4_046.wav
+#WAVIR piano4_047.wav
+#WAVIS piano4_048.wav
+#WAVIT piano4_049.wav
+#WAVIU piano4_050.wav
+#WAVIV piano4_051.wav
+#WAVIW piano4_052.wav
+#WAVIX piano4_053.wav
+#WAVIY piano4_054.wav
+#WAVIZ piano4_055.wav
+#WAVJ0 piano4_056.wav
+#WAVJ1 piano4_057.wav
+#WAVJ2 piano4_058.wav
+#WAVJ3 piano4_059.wav
+#WAVJ4 piano4_060.wav
+#WAVJ5 piano4_061.wav
+#WAVJ6 piano4_062.wav
+#WAVJ7 piano4_063.wav
+#WAVJ8 piano4_064.wav
+#WAVJ9 piano4_065.wav
+#WAVJA piano4_1_000.wav
+#WAVJB piano4_1_001.wav
+#WAVJC piano4_1_002.wav
+#WAVJD piano4_1_003.wav
+#WAVJE piano4_1_004.wav
+#WAVJF piano4_1_005.wav
+#WAVJG piano4_1_006.wav
+#WAVJH piano4_1_007.wav
+#WAVJI piano4_1_008.wav
+#WAVJJ piano4_1_009.wav
+#WAVJK piano4_1_010.wav
+#WAVJL piano4_1_011.wav
+#WAVJM piano4_1_012.wav
+#WAVJN piano4_1_013.wav
+#WAVJO piano4_1_014.wav
+#WAVJP piano4_1_015.wav
+#WAVJQ piano4_1_016.wav
+#WAVJR piano4_1_017.wav
+#WAVJS piano4_1_018.wav
+#WAVJT piano4_1_019.wav
+#WAVJU piano4_1_020.wav
+#WAVJV piano4_1_021.wav
+#WAVJW piano4_1_022.wav
+#WAVJX piano4_1_023.wav
+#WAVJY piano4_1_024.wav
+#WAVJZ piano5_000.wav
+#WAVK0 piano5_001.wav
+#WAVK1 piano5_002.wav
+#WAVK2 piano5_003.wav
+#WAVK3 piano5_004.wav
+#WAVK4 piano5_005.wav
+#WAVK5 piano5_006.wav
+#WAVK6 piano5_007.wav
+#WAVK7 piano5_008.wav
+#WAVK8 piano5_009.wav
+#WAVK9 piano5_010.wav
+#WAVKA piano5_011.wav
+#WAVKB piano5_012.wav
+#WAVKC piano5_013.wav
+#WAVKD piano6_000.wav
+#WAVKE piano6_001.wav
+#WAVKF piano6_002.wav
+#WAVKG piano6_003.wav
+#WAVKH piano6_004.wav
+#WAVKI piano6_005.wav
+#WAVKJ piano6_006.wav
+#WAVKK piano6_007.wav
+#WAVKL piano6_008.wav
+#WAVKM piano6_009.wav
+#WAVKN piano6_010.wav
+#WAVKO piano6_011.wav
+#WAVKP piano6_012.wav
+#WAVKQ piano6_013.wav
+#WAVKR piano6_014.wav
+#WAVKS piano6_015.wav
+#WAVKT piano6_019.wav
+#WAVKU piano6_1.wav
+#WAVKV piano6_2.wav
+#WAVKW piano6_3.wav
+#WAVKX piano6_4.wav
+#WAVKY piano6_5.wav
+#WAVKZ piano6_6.wav
+#WAVL0 piano6_7.wav
+#WAVL1 piano6_8.wav
+#WAVL2 piano6_9.wav
+#WAVL3 piano6_10.wav
+#WAVL4 piano6_11.wav
+#WAVL5 piano6_12.wav
+#WAVL6 piano6_13.wav
+#WAVL7 piano6_14.wav
+#WAVL8 piano6_15.wav
+#WAVL9 piano6_16.wav
+#WAVLA piano6_17.wav
+#WAVLB piano6_18.wav
+#WAVLC piano6_19.wav
+#WAVLD piano6_20.wav
+#WAVLE piano6_21.wav
+#WAVLF piano6_22.wav
+#WAVLG piano6_23.wav
+#WAVLH piano6_24.wav
+#WAVLI piano6_25.wav
+#WAVLJ piano6_26.wav
+#WAVLK piano6_27.wav
+#WAVLL piano6_28.wav
+#WAVLM piano6_29.wav
+#WAVLN strings1_1_000.wav
+#WAVLO strings1_1_001.wav
+#WAVLP strings1_1_002.wav
+#WAVLQ strings1_1_003.wav
+#WAVLR strings1_1_004.wav
+#WAVLS strings1_1_005.wav
+#WAVLT strings1_1_006.wav
+#WAVLU strings1_1_007.wav
+#WAVLV strings1_1_008.wav
+#WAVLW strings1_1_009.wav
+#WAVLX strings1_1_010.wav
+#WAVLY strings1_1_011.wav
+#WAVLZ strings1_1_012.wav
+#WAVM0 strings1_1_013.wav
+#WAVM1 strings1_2_000.wav
+#WAVM2 strings1_2_001.wav
+#WAVM3 strings1_2_002.wav
+#WAVM4 strings1_2_003.wav
+#WAVM5 strings1_2_004.wav
+#WAVM6 strings1_2_005.wav
+#WAVM7 strings1_2_006.wav
+#WAVM8 strings1_2_007.wav
+#WAVM9 strings1_3_000.wav
+#WAVMA strings1_3_001.wav
+#WAVMB strings1_3_002.wav
+#WAVMC strings1_4.wav
+#WAVMD strings1_5_000.wav
+#WAVME strings1_5_001.wav
+#WAVMF strings1_5_002.wav
+#WAVMG strings1_5_003.wav
+#WAVMH strings1_5_004.wav
+#WAVMI strings1_5_005.wav
+#WAVMJ strings1_5_006.wav
+#WAVMK strings1_5_007.wav
+#WAVML strings1_5_008.wav
+#WAVMM strings1_5_009.wav
+#WAVMN strings1_5_010.wav
+#WAVMO strings1_5_011.wav
+#WAVMP strings1_5_012.wav
+#WAVMQ strings1_5_013.wav
+#WAVMR strings1_5_014.wav
+#WAVMS strings1_5_015.wav
+#WAVMT strings1_5_016.wav
+#WAVMU strings1_5_017.wav
+#WAVMV strings1_5_018.wav
+#WAVMW strings1_5_019.wav
+#WAVMX strings1_5_020.wav
+#WAVMY strings1_5_021.wav
+#WAVMZ strings1_5_022.wav
+#WAVN0 strings1_5_023.wav
+#WAVN1 strings1_5_024.wav
+#WAVN2 strings1_5_025.wav
+#WAVN3 strings1_5_026.wav
+#WAVN4 strings1_5_027.wav
+#WAVN5 strings1_6_000.wav
+#WAVN6 strings1_6_001.wav
+#WAVN7 strings1_6_002.wav
+#WAVN8 strings1_6_003.wav
+#WAVN9 strings1_6_004.wav
+#WAVNA strings1_6_005.wav
+#WAVNB strings1_6_006.wav
+#WAVNC strings1_6_007.wav
+#WAVND strings1_6_008.wav
+#WAVNE strings1_6_009.wav
+#WAVNF strings1_6_010.wav
+#WAVNG strings2_1.wav
+#WAVNH strings2_2.wav
+#WAVNI strings3_000.wav
+#WAVNJ strings3_001.wav
+#WAVNK strings3_002.wav
+#WAVNL strings3_003.wav
+#WAVNM strings3_004.wav
+#WAVNN strings3_005.wav
+#WAVNO strings3_006.wav
+#WAVNP strings3_007.wav
+#WAVNQ strings3_008.wav
+#WAVNR strings3_009.wav
+#WAVNS strings3_010.wav
+#WAVNT strings3_011.wav
+#WAVNU strings3_012.wav
+#WAVNV strings3_013.wav
+#WAVNW strings3_014.wav
+#WAVNX strings3_015.wav
+#WAVNY strings3_016.wav
+#WAVNZ strings3_017.wav
+#WAVO0 strings3_018.wav
+#WAVO1 strings3_019.wav
+#WAVO2 strings3_020.wav
+#WAVO3 strings3_021.wav
+#WAVO4 strings3_022.wav
+#WAVO5 strings3_023.wav
+#WAVO6 strings3_024.wav
+#WAVO7 strings3_025.wav
+#WAVO8 strings3_026.wav
+#WAVO9 strings3_027.wav
+#WAVOA strings3_028.wav
+#WAVOB strings3_029.wav
+#WAVOC strings3_030.wav
+#WAVOD strings3_031.wav
+#WAVOE strings3_032.wav
+#WAVOF strings3_033.wav
+#WAVOG strings3_034.wav
+#WAVOH strings3_035.wav
+#WAVOI strings3_036.wav
+#WAVOJ strings3_037.wav
+#WAVOK strings3_038.wav
+#WAVOL strings3_039.wav
+#WAVOM strings3_040.wav
+#WAVON strings3_041.wav
+#WAVOO strings3_042.wav
+#WAVOP strings3_043.wav
+#WAVOQ strings3_044.wav
+#WAVOR strings3_045.wav
+#WAVOS strings3_046.wav
+#WAVOT strings3_047.wav
+#WAVOU strings3_048.wav
+#WAVOV strings3_049.wav
+#WAVOW strings3_050.wav
+#WAVOX strings3_051.wav
+#WAVOY strings3_052.wav
+#WAVOZ strings3_053.wav
+#WAVP0 strings3_054.wav
+#WAVP1 strings3_055.wav
+#WAVP2 strings3_056.wav
+#WAVP3 strings3_057.wav
+#WAVP4 strings3_058.wav
+#WAVP5 strings3_059.wav
+#WAVP6 strings3_060.wav
+#WAVP7 strings3_061.wav
+#WAVP8 strings3_062.wav
+#WAVP9 strings3_063.wav
+#WAVPA strings3_064.wav
+#WAVPB strings3_065.wav
+#WAVPC strings3_066.wav
+#WAVPD strings4_1_000.wav
+#WAVPE strings4_1_001.wav
+#WAVPF strings4_1_002.wav
+#WAVPG strings4_1_003.wav
+#WAVPH strings4_1_004.wav
+#WAVPI strings4_1_005.wav
+#WAVPJ strings4_1_006.wav
+#WAVPK strings4_1_007.wav
+#WAVPL strings4_1_008.wav
+#WAVPM strings4_1_009.wav
+#WAVPN strings4_1_010.wav
+#WAVPO strings4_1_011.wav
+#WAVPP strings4_1_012.wav
+#WAVPQ strings4_1_013.wav
+#WAVPR strings4_1_014.wav
+#WAVPS strings4_2_000.wav
+#WAVPT strings4_2_001.wav
+#WAVPU strings4_2_002.wav
+#WAVPV strings4_2_003.wav
+#WAVPW strings4_2_004.wav
+#WAVPX strings4_3.wav
+#WAVPY strings5_000.wav
+#WAVPZ strings5_001.wav
+#WAVQ0 strings5_002.wav
+#WAVQ1 strings5_003.wav
+#WAVQ2 strings5_004.wav
+#WAVQ3 strings5_005.wav
+#WAVQ4 strings5_006.wav
+#WAVQ5 strings5_007.wav
+#WAVQ6 strings5_008.wav
+#WAVQ7 strings5_009.wav
+#WAVQ8 strings5_010.wav
+#WAVQ9 strings5_011.wav
+#WAVQA strings5_012.wav
+#WAVQB strings5_013.wav
+#WAVQC strings5_014.wav
+#WAVQD strings5_015.wav
+#WAVQE strings5_016.wav
+#WAVQF strings5_017.wav
+#WAVQG strings5_018.wav
+#WAVQH strings5_019.wav
+#WAVQI musicbox1_000.wav
+#WAVQJ musicbox1_001.wav
+#WAVQK musicbox1_002.wav
+#WAVQL musicbox1_005.wav
+#WAVQM musicbox1_006.wav
+#WAVQN musicbox1_009.wav
+#WAVQO musicbox1_012.wav
+#WAVQP musicbox1_013.wav
+#WAVQQ musicbox1_014.wav
+#WAVQR musicbox1_016.wav
+#WAVQS musicbox1_017.wav
+#WAVQT musicbox1_018.wav
+#WAVQU musicbox1_020.wav
+#WAVQV musicbox1_021.wav
+#WAVQW musicbox1_022.wav
+#WAVQX musicbox1_024.wav
+#WAVQY musicbox1_028.wav
+#WAVQZ musicbox2_000.wav
+#WAVR0 musicbox2_001.wav
+#WAVR1 musicbox2_002.wav
+#WAVR2 musicbox2_003.wav
+#WAVR3 musicbox2_004.wav
+#WAVR4 musicbox2_005.wav
+#WAVR5 musicbox2_006.wav
+#WAVR6 musicbox2_007.wav
+#WAVR7 musicbox2_008.wav
+#WAVR8 musicbox2_009.wav
+#WAVR9 musicbox2_010.wav
+#WAVRA musicbox2_011.wav
+#WAVRB musicbox2_012.wav
+#WAVRC musicbox2_013.wav
+#WAVRD musicbox2_014.wav
+#WAVRE musicbox2_015.wav
+#WAVRF musicbox2_016.wav
+#WAVRG musicbox2_017.wav
+#WAVRH musicbox3_000.wav
+#WAVRI musicbox3_001.wav
+#WAVRJ musicbox3_002.wav
+#WAVRK musicbox3_003.wav
+#WAVRL musicbox3_004.wav
+#WAVRM musicbox3_005.wav
+#WAVRN musicbox3_006.wav
+#WAVRO musicbox3_007.wav
+#WAVRP musicbox3_008.wav
+#WAVRQ musicbox3_009.wav
+#WAVRR musicbox3_010.wav
+#WAVRS musicbox3_011.wav
+#WAVRT musicbox3_012.wav
+#WAVRU musicbox3_013.wav
+#WAVRV musicbox3_014.wav
+#WAVRW musicbox3_015.wav
+#WAVRX musicbox4_000.wav
+#WAVRY musicbox4_001.wav
+#WAVRZ musicbox4_002.wav
+#WAVS0 musicbox4_003.wav
+#WAVS1 musicbox4_004.wav
+#WAVS2 musicbox4_005.wav
+#WAVS3 musicbox4_006.wav
+#WAVS4 musicbox4_007.wav
+#WAVS5 musicbox4_008.wav
+#WAVS6 musicbox4_009.wav
+#WAVS7 musicbox4_010.wav
+#WAVS8 musicbox4_011.wav
+#WAVS9 musicbox4_012.wav
+#WAVSA musicbox4_013.wav
+#WAVSB musicbox4_014.wav
+#WAVSC musicbox4_2_000.wav
+#WAVSD musicbox4_2_001.wav
+#WAVSE musicbox4_2_002.wav
+#WAVSF musicbox4_2_003.wav
+#WAVSG musicbox4_2_004.wav
+#WAVSH musicbox4_2_005.wav
+#WAVSI musicbox4_2_006.wav
+#WAVSJ musicbox4_2_007.wav
+#WAVSK musicbox4_2_008.wav
+#WAVSL musicbox4_2_009.wav
+#WAVSM musicbox4_2_010.wav
+#WAVSN musicbox5_000.wav
+#WAVSO musicbox5_001.wav
+#WAVSP musicbox5_002.wav
+#WAVSQ musicbox5_003.wav
+#WAVSR musicbox5_004.wav
+#WAVSS musicbox5_005.wav
+#WAVST musicbox5_006.wav
+#WAVSU musicbox6_000.wav
+#WAVSV musicbox6_001.wav
+#WAVSW musicbox6_002.wav
+#WAVSX musicbox6_003.wav
+#WAVSY musicbox6_004.wav
+#WAVSZ musicbox6_005.wav
+#WAVT0 musicbox6_006.wav
+#WAVT1 musicbox6_007.wav
+#WAVT2 musicbox6_008.wav
+#WAVT3 musicbox6_009.wav
+#WAVT4 musicbox6_010.wav
+#WAVT5 musicbox6_011.wav
+#WAVT6 musicbox6_012.wav
+#WAVT7 musicbox6_013.wav
+#WAVT8 musicbox6_014.wav
+#WAVT9 musicbox7_1.wav
+#WAVTA musicbox7_2.wav
+#WAVTB musicbox7_3.wav
+#WAVTC bass_sub1_bgm.wav
+#WAVTD bass_sub2_bgm.wav
+#WAVTE gloken1_000.wav
+#WAVTF gloken1_001.wav
+#WAVTG gloken1_002.wav
+#WAVTH gloken1_003.wav
+#WAVTI gloken1_004.wav
+#WAVTJ gloken1_005.wav
+#WAVTK gloken1_006.wav
+#WAVTL gloken1_007.wav
+#WAVTM gloken1_008.wav
+#WAVTN gloken1_009.wav
+#WAVTO gloken2_000.wav
+#WAVTP gloken2_001.wav
+#WAVTQ gloken2_002.wav
+#WAVTR gloken2_003.wav
+#WAVTS gloken2_004.wav
+#WAVTT gloken2_005.wav
+#WAVTU gloken2_006.wav
+#WAVTV gloken2_007.wav
+#WAVTW gloken3_bgm.wav
+#WAVTX gloken4_000.wav
+#WAVTY gloken4_001.wav
+#WAVTZ gloken4_002.wav
+#WAVU0 gloken4_003.wav
+#WAVU1 gloken4_004.wav
+#WAVU2 gloken4_005.wav
+#WAVU3 gloken4_006.wav
+#WAVU4 gloken4_007.wav
+#WAVU5 gloken4_008.wav
+#WAVU6 gloken4_009.wav
+#WAVU7 gloken4_010.wav
+#WAVU8 gloken4_011.wav
+#WAVU9 gloken4_012.wav
+#WAVUA gloken4_013.wav
+#WAVUB gloken5_bgm.wav
+#WAVUC harp1_000.wav
+#WAVUD harp1_001.wav
+#WAVUE harp1_002.wav
+#WAVUF harp1_003.wav
+#WAVUG harp1_004.wav
+#WAVUH harp1_005.wav
+#WAVUI harp1_006.wav
+#WAVUJ harp1_007.wav
+#WAVUK harp1_008.wav
+#WAVUL harp1_009.wav
+#WAVUM harp1_010.wav
+#WAVUN harp1_011.wav
+#WAVUO harp1_012.wav
+#WAVUP harp1_013.wav
+#WAVUQ harp1_014.wav
+#WAVUR harp1_015.wav
+#WAVUS harp2_bgm.wav
+#WAVUT harp3_2.wav
+#WAVUU harp3_000.wav
+#WAVUV harp3_001.wav
+#WAVUW harp3_002.wav
+#WAVUX harp3_003.wav
+#WAVUY harp3_004.wav
+#WAVUZ harp3_005.wav
+#WAVV0 harp3_006.wav
+#WAVV1 harp3_007.wav
+#WAVV2 harp3_008.wav
+#WAVV3 harp3_009.wav
+#WAVV4 harp3_010.wav
+#WAVV5 harp3_011.wav
+#WAVV6 harp3_012.wav
+#WAVV7 harp3_013.wav
+#WAVV8 harp3_014.wav
+#WAVV9 harp3_015.wav
+#WAVVA harp3_016.wav
+#WAVVB harp3_017.wav
+#WAVVC harp3_018.wav
+#WAVVD harp3_019.wav
+#WAVVE harp3_020.wav
+#WAVVF harp3_021.wav
+#WAVVG harp3_022.wav
+#WAVVH harp3_023.wav
+#WAVVI harp3_024.wav
+#WAVVJ harp3_025.wav
+#WAVVK harp3_026.wav
+#WAVVL harp3_027.wav
+#WAVVM harp3_028.wav
+#WAVVN harp3_029.wav
+#WAVVO harp3_030.wav
+#WAVVP harp3_031.wav
+#WAVVQ harp3_032.wav
+#WAVVR harp3_033.wav
+#WAVVS harp3_034.wav
+#WAVVT harp3_035.wav
+#WAVVU harp3_036.wav
+#WAVVV harp3_037.wav
+#WAVVW harp3_038.wav
+#WAVVX harp3_039.wav
+#WAVVY harp3_040.wav
+#WAVVZ harp3_041.wav
+#WAVW0 harp3_042.wav
+#WAVW1 harp3_043.wav
+#WAVW2 harp3_044.wav
+#WAVW3 harp3_045.wav
+#WAVW4 harp3_046.wav
+#WAVW5 harp3_047.wav
+#WAVW6 harp3_048.wav
+#WAVW7 harp4_000.wav
+#WAVW8 harp4_001.wav
+#WAVW9 harp4_002.wav
+#WAVWA harp4_003.wav
+#WAVWB harp4_004.wav
+#WAVWC harp4_005.wav
+#WAVWD harp4_006.wav
+#WAVWE harp4_007.wav
+#WAVWF harp4_008.wav
+#WAVWG harp4_009.wav
+#WAVWH harp4_010.wav
+#WAVWI harp4_011.wav
+#WAVWJ harp4_012.wav
+#WAVWK harp4_013.wav
+#WAVWL harp4_014.wav
+#WAVWM harp4_015.wav
+#WAVWN harp4_016.wav
+#WAVWO harp4_017.wav
+#WAVWP harp4_018.wav
+#WAVWQ harp4_019.wav
+#WAVWR harp4_020.wav
+#WAVWS harp4_021.wav
+#WAVWT harp4_022.wav
+#WAVWU harp4_023.wav
+#WAVWV harp4_024.wav
+#WAVWW harp4_025.wav
+#WAVWX harp4_026.wav
+#WAVWY harp4_027.wav
+#WAVWZ harp4_028.wav
+#WAVX0 harp4_029.wav
+#WAVX1 harp4_030.wav
+#WAVX2 harp4_031.wav
+#WAVX3 harp4_032.wav
+#WAVX4 harp4_033.wav
+#WAVX5 harp4_034.wav
+#WAVX6 harp4_035.wav
+#WAVX7 harp4_036.wav
+#WAVX8 harp4_037.wav
+#WAVX9 harp4_038.wav
+#WAVXA harp4_039.wav
+#WAVXB harp3_1_x_000.wav
+#WAVXC harp3_1_x_001.wav
+#WAVXD harp3_1_x_002.wav
+#WAVXE harp3_1_x_003.wav
+#WAVXF harp3_1_x_004.wav
+#WAVXG harp3_1_x_005.wav
+#WAVXH harp3_1_x_006.wav
+#WAVXI harp3_1_x_007.wav
+#WAVXJ harp3_1_x_008.wav
+#WAVXK harp3_1_x_009.wav
+#WAVXL harp3_1_x_010.wav
+#WAVXM harp3_1_x_011.wav
+#WAVXN harp3_1_x_012.wav
+#WAVXO harp3_1_x_013.wav
+#WAVXP harp3_1_x_014.wav
+#WAVXQ harp3_1_x_015.wav
+#WAVXR harp3_1_x_016.wav
+#WAVXS harp3_1_x_017.wav
+#WAVXT harp3_1_x_018.wav
+#WAVXU harp3_1_x_019.wav
+#WAVXV harp3_1_x_020.wav
+#WAVXW harp3_1_x_021.wav
+#WAVXX harp3_1_x_022.wav
+#WAVXY harp3_1_x_023.wav
+#WAVXZ fadeout_bgm.wav
+#WAVY4 custom_bass3.wav
+#WAVY5 custom_brast4.wav
+#WAVY6 custom_brast6_000.wav
+#WAVY7 custom_brast6_001.wav
+#WAVY8 custom_kickcymbal1.wav
+#WAVY9 custom_kickcymbal2.wav
+#WAVYA custom_kickcymbal3.wav
+#WAVYB custom_kickcymbal4.wav
+#WAVYC custom_kickcymbal5.wav
+#WAVYD custom_bass_000.wav
+#WAVYE custom_bass_001.wav
+#WAVYF custom_bass_002.wav
+#WAVYG custom_bass_003.wav
+#WAVYH custom_bass_004.wav
+#WAVYI custom_bass_005.wav
+#WAVYJ custom_bass_006.wav
+#WAVYK custom_bass_007.wav
+#WAVYL custom_bass_008.wav
+#WAVYM custom_bass_009.wav
+#WAVYN custom_bass_010.wav
+#WAVYO custom_bass_011.wav
+#WAVYP custom_bass_012.wav
+#WAVYQ custom_bass_013.wav
+#WAVYR custom_bass_014.wav
+#WAVYS custom_bass_015.wav
+#WAVYT custom_bass_016.wav
+#WAVYU custom_bass_017.wav
+#WAVYV custom_bass_018.wav
+#WAVYW custom_bass_019.wav
+#WAVYX custom_bass_020.wav
+#WAVYY custom_bass_021.wav
+#WAVYZ custom_synth_x.wav
+#WAVZ0 custom_brast4_001.wav
+
+#BMP01 _bga.mpg
+
+
+
+
+#BANNER _banner.png
+#SUBARTIST Movie:Optie/Illust:セシル◇タイト/selene./all-key
+#BACKBMP _backbmp.png
+#DIFFICULTY 5
+#PREVIEW _preview.wav
+#LNOBJ ZZ
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00101:00
+#00101:00
+#00104:0001
+#00114:000000000000002W
+
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00201:00
+#00211:0000QJ00000000000000QL0000001800
+#00212:000000000000QJ00000000000000QL00
+#00213:00000000000000000000310000000018
+#00214:QI00000000000000QI000000000000QJ
+#00215:00000000QK000000000000000000CW00
+#00216:2X000000000000000000000000000O00
+#00218:000000000000000000000000000000CW
+#00219:0000000000000000CV000000QM00000O
+
+#00311:1800000000000018
+#00312:2Y00000000QL00QL
+#00313:0000QJ000000QJ0000000000000000QJ
+#00315:QIQI
+#00316:0Q00000000002Z0O
+#00318:0000QK00000000CY
+#00319:CX0000QM
+
+#00411:1800001800181818
+#00412:0000QJ00000000000000000000180018
+#00413:000000D000QLD2QL
+#00414:QI0000000000QJ0000000000000O00QJ
+#00415:0Q000000QI0000D1
+#00416:3000000P000P0O0O
+#00418:CZ000000QK0000000000D00000D200D1
+#00419:000000000000000000000000QM00000O
+
+#00501:00
+#00511:1800180000001800000000000O001800
+#00512:000000000000000000000O001800QL00
+#00513:D000QJ000000000000001800D400D500
+#00514:000000000000QJ000000D300QM000018
+#00515:QI00000000000000QI00QL00001800D5
+#00516:0P000P0000000P000000000O000O00QJ
+#00518:0N000000QK0000000000001800D4000O
+#00519:0000D0000000D000000000D300000O00
+
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00601:00
+#00611:18000000LO0000000000QL00LS00QL00
+#00612:0Q0000QJ0000000000LP000000000000000000000000003D
+#00613:LN0000000000QJ00000000000000LT00
+#00614:D6000000M2000000QI00LR00000000QJ
+#00615:GA00000000000000LQ00000000003B00
+#00616:240000000Q0000000000000000000000
+#00618:QI000000QK0000000000M3000000003C
+#00619:M10000001800000000000000QM000000
+
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00701:00
+#00711:LU0000000000QJ0000000000LW0000000000180000000000LY00000000001800000O0000180000000000180000QJ0000
+#00712:000000003G0000000000000000003L0000000O00001800000000000000000000001800000O0000180000000000180000
+#00713:003E00000000000000003J00000000000000QJ00000O0000QI0000000000QL0000000000003W00000000QL0000000000
+#00714:000000000000LV00000000003K000000000000003N000000003Q00000000003T00000000QM00000O0000M70000000040
+#00715:QI000000000000003I00000000000000003M0000000000000000003R00000O0000000000M60000000000003Y000O0000
+#00716:25
+#00718:00003F000000000000000000QK0000000000LX00003O000000000000003S00000000003V0000000000000O003Z000000
+#00719:M400000000003H0000000000000000000000M500000000003P0000000000LZ00003U0000M00000003X00000000M80000
+
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00811:1800180000QL0000
+#00812:D7QJ00QJ000000QL
+#00813:0Q0000LP0000LS00
+#00814:GA000000LQ0000LT
+#00815:LN000000LO0000000000LR00000000QJ
+#00816:26000Q0000000000
+#00818:QI00QK00QI000000
+#00819:M100M20000M3QM00
+
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00901:00
+#00911:00001800000018000000180000001800
+#00912:00000P0000000P0000000000180000M8
+#00913:0000QJ000000LX000000QL00M000QL00
+#00914:LU000000QK000000LY000000M60000QJ
+#00915:0000LV000000QJ000000LZ0000180000
+#00916:505152535400550056000O0O0O0O0O0O
+#00918:QI000000LW000000QI00001800000018
+#00919:M40000000000000000000000M50000000000000000570000QM000000M7000000
+
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01011:180018LP00QL00QL
+#01012:0Q00QJ000000QJ0000000000000000QJ
+#01013:LN00LO000000LS00
+#01014:D8000000LQLR00LT
+#01015:QI00QK0000M30000
+#01016:27000Q0000000000
+#01018:GA000000QI000000
+#01019:M100M2000000QM00
+
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01101:00
+#01111:0000180000001800LY00180018001800
+#01112:0000QJ000000LX000000001800180018
+#01113:QI0000180000QJ000000QL00M600QL00
+#01114:0000LV00000000000000LZ000O0000QJ
+#01115:LU00000O00000P00QI00000OM00O00M8
+#01116:58595A0000005B00000028292A2B2C2D
+#01118:M4000000QK00000000000O000000M70O
+#01119:00000O00LW00M50000000000QM000O00
+
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01201:00
+#01211:180018LP00180000
+#01212:D9QJ00QJ00QLLS00
+#01213:LN00000000GB00LT
+#01214:QI002F00QI2G00QL
+#01215:0Q000000LO000000LQ00LR00000000QJ
+#01216:2E000Q00000Q0000
+#01218:GA00000000000000QK0000000000000000000000M300000000000000000000DA
+#01219:M100M2000000QM00
+
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01301:00
+#01311:0Q00000000000Q000000000018001800
+#01312:GC00LV000000GC000000QL002N0000M8
+#01313:18000000000018000000MA000O000OQJ
+#01314:LU00000000000000000000DB00000000M9000000000000DC00000000QL0000DD
+#01315:0000QJ000000LX0000000000MC0O000O
+#01316:2H00000000002I00000000002J2K2L2M
+#01318:QI000000LW00QJ00QS000000GD00M700
+#01319:M4000000QK00M500000000MBQR180018
+
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01411:18000000000000001800000000000000180000000000000018000000QL0000DE
+#01412:0Q00QJ000000QJ000000QL000000TE00
+#01413:GA0000000000MF0012000000MI0000TF
+#01414:MD000000ME000000QI00MH000000GE00
+#01415:2T000000QK0000000000N700120000GF
+#01416:2O0000000Q0000000000000000000V00
+#01418:N5000000N6000000MG000000QM00MJ00
+#01419:QI0000000000000000000V0000003200
+
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:2U
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01501:00
+#01511:18000000QN000000180000DFMN0000001800000000000000MQ000000MR000000
+#01512:12000035MM00QN00TJ00QP003A00QP00
+#01513:N8000000TH000000360000000V000000QO000000TH0000DGNA000000TH000000
+#01514:TG00ML00TG00N900GJ00MP00TG000V00
+#01515:MK00GH00QK00TI00MO00GK001200GK00
+#01516:QI000000000000000000000018000000
+#01518:GG0000000V000000GG00000037000000380000000V000000GG000000000000DH
+#01519:330034001200GI0012003900QQ00MR00
+
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01601:00
+#01611:1818181818181818
+#01612:NB00000000000000NC000000R6000000000000DJ00000000GO000000000000DK
+#01613:TKQSTK001NND00GP
+#01614:GL00GM0000QV0000
+#01615:2P000000000000DI00000000MU000000QU000000TL00000000000000QV000000
+#01616:2V00000000000000
+#01618:QR00MT00MVGN0000
+#01619:MS00QT0000MWQW00
+
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01711:18001800180018001800000000000000
+#01712:TM18001800180018QY00000000000000
+#01713:00GR00MZ0000N200N400000000000000
+#01714:NE00GS00N000QVN32S00000000000000
+#01715:MX0000000000GT00QW00GV00000000DLNF000000000000000000000000000000
+#01716:2Q2R
+#01718:GQ00QV00GU00GW00GY00000000000000
+#01719:QX00MY0000N100GXTN00000000000000
+
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01811:DM000000000000000000480000000000
+#01812:4100000043000000004700000000004B
+#01813:0000FA000000FC00460000000000FG00
+#01814:4E0000000000440000000000490000FH
+#01815:F900420000000000FD00000000004A00
+#01818:00000000FB0000450000FE0000000000
+#01819:000000000000000000000000FF000000
+
+#01901:00
+#01901:00
+#01901:00
+#01911:4C000000000044004600000000004A00
+#01912:00000000000000450000000049000000
+#01913:0000FA000000FC000000FE000000FG00
+#01914:000000004300000000470000000000FH
+#01915:F900000000000000FD00000000000000
+#01918:00000000FB000000000048000000004B
+#01919:00004D000000000000000000FF000000
+
+#02001:00
+#02001:00
+#02001:00
+#02011:0000420000000000460000000000004B
+#02012:41000000430000450047000000004A00
+#02013:0000FA000000FC000000FE0000000000
+#02015:F900000000000000FD000000490000FH
+#02018:00000000FB000000000048000000FG00
+#02019:000000000000440000000000FF000000
+
+#02111:7100000000001900000000001900000000001900000000007400000O00000000000O00000000000O0000000000000000
+#02112:1900000000001F00000000001F00000073000000000O00000000001F00000000001F0000000000000000190000000000
+#02113:1F00000000000O00000000000000000O00000000001F00000000001900000000000000001900000000001F0000000000
+#02114:0O00000O001F0019000019001F000O00
+#02115:000O001F0019000019001F000O00000O
+#02118:001F001900001F001F000O00001F001F
+#02119:0000001900000000720000000O00000000000O00000000000O0000000000000000190000000000190000000000190000
+
+#02211:180018FL180018Z1
+#02212:FIZ100Z100Z1FO1A
+#02213:4Z001A00Z1001A000000FN0012000014
+#02214:0W000000FK0000000Z001A0000130000
+#02215:00000U000000000000100000Z1000000
+#02216:0S
+#02218:000X00000Y000000FM00001100000U00
+#02219:00FJ000UZ10U00FP
+
+#02311:18FR180018Z118FX
+#02312:Z100000000160000FU00000012000000
+#02313:00001A0000001A000Z00001100001A00
+#02314:000X0000Z100FT0000001A00Z1000014
+#02315:FQ000000FS00001700100000FW00Z100
+#02318:0000Z10000000U0000000U0000130000
+#02319:0W0U0YZ1Z1FV000U
+
+#02411:180018FL18Z11800
+#02412:FI1A001A001AFOZ1
+#02413:0W000Y000ZFN001A
+#02414:00000U00FK000000Z100001100130014
+#02415:000X0000Z100Z10000100000Z1000000
+#02418:Z1Z10000FM00120U
+#02419:00FJ000U000U00FP
+
+#02511:18FR180018Z118FX
+#02512:00001A0000001A00FU0000110000Z100
+#02513:0W000YZ1001A001A
+#02514:00000U00Z100FT000Z00000000130000
+#02515:FQ000000FS00001700000U00FW000014
+#02518:Z100Z1000016000000100000Z1000U00
+#02519:000X000000000U00Z100FV0012000000
+
+#02601:00
+#02601:00
+#02601:00
+#02601:00
+#02601:00
+#02601:00
+#02611:180018FL18001800
+#02612:FI001A000000Z10000100000FO000014
+#02613:00Z1001A00FNZ11A
+#02614:0W000000FK0000000Z00001100130000
+#02615:4E0X00000Y000000Z1001A0000000U00
+#02618:000U000UFMZ112Z1
+#02619:Z1FJZ100000U00FP
+
+#02711:18FR18Z1180018FX
+#02712:00001A0000160000FU00001100000000
+#02713:000X0000Z1001A0000001A0012001A00
+#02714:0W00Z1000000FT000Z00Z10000000014
+#02715:FQ00FS00Z10UFWZ1
+#02718:Z10000000Y0000170010000000130000
+#02719:000U000U00FVZ10U
+
+#02811:180018FL1800181A
+#02812:FIZ1Z100Z11AFO00
+#02813:001A001A00FN00Z1
+#02814:000X0000FK0000000Z00Z10012000014
+#02815:0W000YZ1000U000U
+#02818:Z1000U0000000000FM00001100130000
+#02819:0000FJ0000000U0000100000Z100FP00
+
+#02901:00
+#02901:00
+#02911:18000U00180ODP00FU000U0O12DP0018
+#02912:0O0X0O000Y00FT0ODN00DO0018000U00
+#02913:0W0OFR000O180O180018001800130O14
+#02914:001800DP00DP00DP0010FV00FW0OFX0O
+#02915:FQ00DP0OFS00180018000ODO0O001800
+#02918:00DP0018001600170ODN0011001800DO
+#02919:DN001800DO000U000Z0O1800DP00DO00
+
+#03001:00
+#03001:00
+#03001:00
+#03001:00
+#03011:DQ000T001800FL0018001A0018000014
+#03012:FI0000Z10000UF000H100000FO00000M
+#03013:UC00FJ00FK001A000Z00FN0000130L00
+#03014:000X00000E000F00FM0000110000FP00
+#03015:18001A00UE000T00000I0J0012000U00
+#03016:0S
+#03018:0W00UD000Y00000G0000UH00UI00UJ00
+#03019:0C000D0000Z10000UG000U000K001A00
+
+#03101:00
+#03101:00
+#03101:00
+#03101:00
+#03101:00
+#03111:00001A001800001700001A001800FX00
+#03112:0C000D000Y000U00FU000U001200UR00
+#03113:1800FR000016000G00100J00FW001A00
+#03114:000X00000E000F00UO00001100000U00
+#03115:FQ00UL00FS00FT001800FV000013000M
+#03118:0W0000Z10000UN000Z00UP00UQ000L00
+#03119:UK000U00UM001A000H0I00000K000014
+
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03201:00
+#03211:180000Z10000FL0018001A0000130L00
+#03212:0W001A0000Z100000Z00FN00FO000014
+#03213:000X00001800000G000I001100001A00
+#03214:FI000T00FK001A00FM000J00UI00000M
+#03215:0000FJ000Y00UF00001000001800FP00
+#03218:0C000D00UE000T000H00UH0012000U00
+#03219:UC00UD000E000F00UG000U000K00UJ00
+
+#03301:00
+#03301:00
+#03301:00
+#03311:1800FR0000160000FU001A0018001A00
+#03312:00001A0018000U0G001000110000FX00
+#03313:FQ00UL000Y00FT0018000U000013000M
+#03314:000X0000FS001A00UO000J00FW00UR00
+#03315:0W000U000E00UN000H00FV00UQ00DN14
+#03318:UK0000Z1000000170000UP0012000L00
+#03319:0C000D00UM000F000Z0I00000K000UDO
+
+#03401:00
+#03401:00
+#03401:00
+#03401:00
+#03411:18000D001800FL0018001A0018000L00
+#03412:FI001A000Y00000G00100000FO001A00
+#03413:4E000T0000Z100000H000U00UI000U00
+#03414:0C0000Z10000UF000Z00FN000K000014
+#03415:DR0X0000FK000T00000I00110000FP00
+#03418:UC00FJ00UE001A00FM00UH000013000M
+#03419:0W00UD000E000F00UG000J001200UJ00
+
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03501:00
+#03511:1800FR00180000170010000018001A00
+#03512:0W00UL000Y00FT00FU001A001200FX00
+#03513:0C001A0000160F000H0I00110000UR00
+#03514:000X0000FS00000G00000U0000130014
+#03515:FQ000D000E000U00UO000J00FW00000M
+#03518:00000U00UM00UN001800FV00UQ000L00
+#03519:UK0000Z100001A000Z00UP000K000U00
+
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03601:00
+#03611:18000T001800FL0000100000FO001A00
+#03612:0W000D000Y00UF0018001A001800FP00
+#03613:FI001A00FK001A00FM000U00UI000014
+#03614:000X0000UE00000G0H00FN000013000M
+#03615:0000FJ000E000T00000I001100000L00
+#03618:UC0000Z100Z100000Z00UH001200UJ00
+#03619:0C00UD0000000F00UG000J000K000U00
+
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03711:0C000U000O160F170H180J11DP00FX0O
+#03712:DN0X0ODPFS000U00DN0I0O00180O0O14
+#03713:0O00FR000E00FT0O18DN0UDOFW000UDO
+#03714:0018DP18DO180O180010DO180013DO0M
+#03715:180O18001800UNDPFU00FV0OUQ00UR00
+#03716:0W0000000Y0000000Z00000012000000
+#03718:FQ00UL0O00DP1800UO0O18000O180L18
+#03719:UKDP0D00UM0ODP0G0O00UP000KDP1800
+
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03811:FY00R1000000
+#03812:0000000000R4
+#03813:QZ00R000G0000000002Z0000
+#03814:0N000000R3G3
+#03815:E8FZ00R20000
+#03816:0S0000000000
+#03818:00000000G200
+#03819:180000G10000
+
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03911:18001818000R18001800H9HA
+#03912:4U180R00H3H400180018000R
+#03913:0R0R0000R9RA0000H7H80000
+#03914:0000H1H20000H5H60000RFRG
+#03915:GZH0000018000R00RDRE0018
+#03918:E900R7R80018000R0R000R00
+#03919:R5R6000R0R00RBRC000R1800
+
+#04011:010000Z10000000000Z10000Z20000080000000018000000
+#04012:000000000000000000000000Z10000000000000000000000060000000000000018000000000000Z10000000000Z10000
+#04013:180002000000Z2000007000009000A00
+#04014:000000001D0000050000Z100Z1000000
+#04015:DU001C0000000400180000Z100Z2000B
+#04016:5R00000000000000005S00000000000000000000000000005T000000000000005U000000000000005V00000000000000
+#04018:000000000000000000000000030000000000000000Z10000000000Z100000000DW000000000000000000Z10000000000
+#04019:0S0000000000Z20000000000DV0000Z200000000DX000000
+
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04101:00
+#04111:0102Z104Z108NH00
+#04112:000000Z10000000000006100000000000000000000650000000000070000000000000000000000000000000000000000
+#04113:180000006000000000640000060000Z10000000000000000
+#04114:DY005Z000063000500Z1000000000000
+#04115:00005Y000000620000Z10000DZ0000Z20000000000000000
+#04116:00006Y1E
+#04118:00005X000000000000Z10000000000Z10000000000000000180000000000000000000000000000000000000000000000
+#04119:5W00Z100030000Z10000000000000000
+
+#04211:18Z200000008Z2Z2
+#04212:00001C000000040006000000090000Z2
+#04213:Z10000001D0000050007000000000A00
+#04214:Z200Z1000000Z2001800Z2001800000B
+#04215:NG000000030000Z100Z100000000Z100
+#04216:6C0000006D6E6F6G6H0000006I000000
+#04218:00000000Z200Z100Z1000000Z10000Z1
+#04219:E000Z10000Z10000
+
+#04311:1800000000Z100001800000018000000
+#04312:000000000300Z1000000Z100000000Z1
+#04313:Z200000000Z20005000000Z10000Z100
+#04314:00006K04Z1Z2E200
+#04315:E100000000000000000000000000006L0000000000Z1000000000000000000006P000000000000000000000000Z20000
+#04316:6J006O6Q
+#04318:0000000000000000000000000000000000006M0000000000Z20000000000000000Z2000000000000000000006R000000
+#04319:Z1000000Z100006N00000000Z100Z200
+
+#04411:18Z2Z200180800Z1
+#04412:00020004060018Z2
+#04413:01000000030000050007000000000A00
+#04414:E31C00Z100Z20900
+#04415:000000001D0000Z100Z10000Z200000B
+#04416:6S006T6U
+#04418:0000Z1000000Z200E4000000Z10000Z1
+#04419:Z100Z100Z1Z1E500
+
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04501:00
+#04511:180000Z11818NH00
+#04512:00Z1000000Z100HDEB18001800000000
+#04513:75Z1Z1HCHE7H0000
+#04514:000076000000000000Z100000000000000000000007E00000000007G00000000007I0000000000000000000000000000
+#04515:0000770000007B00007D00007F00001F0000000000000000
+#04516:0000005C
+#04518:000000000000780000007A000000007C0000000000Z100000000001F00000000001F0000000000000000000000000000
+#04519:HB00000079000000000000001F0000Z20000000000000000
+
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04601:00
+#04611:180200Z2000800Z2
+#04612:RH030618
+#04613:0100Z10000Z100050007000000000A00
+#04614:NG1CZ104Z1Z20900
+#04615:US00Z2001D0000Z100Z100000000000B
+#04616:0S0000005E5F5G5H5I0000005J000000
+#04618:DS0000Z100Z1Z1Z1
+#04619:5D000000Z200000018000000000000Z1
+
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04701:00
+#04711:180000Z10000Z2001800000018000000
+#04712:DT000000Z100000500Z20000Z1000000
+#04713:RI00000000Z100000600080000000000
+#04714:Z10000Z20000040000070000Z2000000
+#04715:00000000030000Z10000Z10000000000
+#04716:5K005L5M5N5O5P00005Q0000
+#04718:Z200000000Z20000Z100000000000000
+#04719:000000000000Z10000Z1000000000000
+
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04801:00
+#04811:180000000000Z200000000000000000000000000000000000000000700000000RL000000Z10000000000Z20000000000
+#04812:RJ00000000001C0000000000Z200000000000400000000001800000000000000180000000000000000000A0000000000
+#04813:010000000000000000000000030000000000000000050000RK0000000000Z10000000000090000000000Z10000000000
+#04814:000000000000020000000000000000Z10000000000000000060000000000000000Z1000000000000RM000000000B0000
+#04815:Z200000000000000000000001D0000000000Z20000000000DV0000000000080000000000000000001800000000000000
+#04816:5R00000000000000005S00000000000000000000000000005T000000000000005U000000000000005V00000000000000
+#04818:Z10000000000Z10000000000000000000000000000Z10000000000Z100000000DW000000000000Z10000000000Z10000
+#04819:DU0000000000000000000000Z10000000000Z10000000000Z10000000000000000Z2000000000000DX00000000000000
+
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04901:00
+#04911:1800020000Z1000066000800NH000000
+#04912:000000Z10000000000000000620000000000000000650000000067000000000000Z10000000000000000000000000000
+#04913:010000000061000000640000000068000000Z10000000000
+#04914:RN0000005Y00000060000000000000630000000000000000DZ0000000000690000000000000000000000000000000000
+#04915:5W00005Z0000Z10000040000180000006A00000000000000
+#04916:0000001E
+#04918:00005X000000000000Z10000000000Z20000000000050000RO0000070000000000006B00000000000000000000000000
+#04919:DYZ103Z106Z1Z200
+
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05001:00
+#05011:18000004Z208Z200
+#05012:00001C0000Z100050007000000000A00
+#05013:Z100Z2000300Z10000Z1000018000000
+#05014:RP00Z1001D000000060000000900000B
+#05015:Z200Z16FZ1Z100Z1
+#05016:6C006H6I
+#05018:NG000000006E006G00000000Z10000Z1
+#05019:E0006DZ218Z20000
+
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05101:00
+#05111:RQ000000Z200Z2001800000018000000
+#05112:Z200000000000000Z100Z100Z1000000
+#05113:1800000000Z20005000000Z1000000Z1
+#05114:000000000000040000000000E200Z200
+#05115:Z10000030000Z2006P00006R
+#05116:6J0000006K6L6M6N6O0000006Q000000
+#05118:0000000000Z100Z1000000Z2000000Z2
+#05119:E1000000Z100Z1000000Z200RR00Z100
+
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05201:00
+#05211:0100Z20000000400RT000800Z2000000
+#05212:18000000030000001800Z200RU000A00
+#05213:000002000000Z10006000000090000Z2
+#05214:Z100Z10000000005000700001800000B
+#05215:00001C001D00Z200Z100Z1000000Z100
+#05216:6S000000000000006T0000006U000000
+#05218:RS000000Z10000Z100Z10000Z10000Z1
+#05219:E3000000Z2000000E4000000E500Z200
+
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05301:00
+#05311:18RW
+#05312:Z200
+#05313:00E7
+#05315:6V0000000000002W
+#05316:0N00
+#05318:RV6X
+#05319:E66W00
+
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:0020
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00
+#05401:00RX
+#05411:180000000000180018001800
+#05412:0000000000001H001UNM00NM
+#05413:HF00000000001T00S01VNN00
+#05414:00NJ00NJ00NJ1O00HG0000HI
+#05415:000000000000HGHH00HIHJ00
+#05416:4T00000000001L0000000000
+#05418:NI00NI00NI00CO00NK00S100
+#05419:000000000000NKNL00210000
+
+#05501:00
+#05501:00
+#05501:2023
+#05501:00CP
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:JA
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05501:00
+#05511:1800JB00HOHP001OJF00JG00
+#05512:RY00181V1800181JHSHT00JH
+#05513:1W002100NSNTS0Z10000NY1R
+#05514:1O00HMHN00JD1W00NWNX1QNZ
+#05515:HKHLRZ00JC00JE00S11PHU00
+#05516:1I1M
+#05518:CQ00NQNRS300HQHR0020S5HV
+#05519:NO000000NP00000000000000220000000000000000000000NU000000NV000000000000001V00000000000000000000EC
+
+#05601:00
+#05601:00
+#05601:00
+#05601:1K
+#05601:23
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:00
+#05601:S2S4
+#05611:18HX00HX00HX18001800I200
+#05612:1X00S30000001T0000I100I3
+#05613:JIO100O100O1HY00I000O600
+#05614:1S000000S7001HHZS5O500O7
+#05615:HW00HW00HW00O200O4001800
+#05616:1MJJ
+#05618:CO000000000020O30021S900
+#05619:O000O000O0001O001U1V0000
+
+#05701:00
+#05701:00
+#05701:001J
+#05701:2023
+#05701:1O1O
+#05701:004Y
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05701:00
+#05711:1800180018001800Z1001Q00
+#05712:S6Z100O900O9S8Z100OD001R
+#05713:CP00S71VO800OA00OC00OE00
+#05714:JKO9O800SBZ1JLOB002000OF
+#05715:O80021I500I51W00S9I9IA00
+#05716:1I1M
+#05718:1W00I400I400I600I81Y00IB
+#05719:I4I500220000COI7001PSA00
+
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:0020
+#05801:001O
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05801:00
+#05811:00ID00ID00ID1T0000IFJM00
+#05812:00000000000018IFS0OJ00JN
+#05813:00OH00OH00OHRXOJ001VS100
+#05814:IC0000000000IE001800IGIH
+#05815:1800IC00IC00OI00IE00OITP
+#05816:6Z1L
+#05818:0000000000001H00OI21TOOK
+#05819:OG00OG00OG00CO001U001800
+
+#05901:00
+#05901:00
+#05901:1W1W
+#05901:1I1J
+#05901:0023
+#05901:1O1O
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05901:00
+#05911:18001800JQOQTRIP001PTTIT
+#05912:CQ00JPOOS300CPOSTS00IS00
+#05913:JOOMRZ00IM00IO0000OU00OW
+#05914:TQ00IK2200INOR00IQ00OV00
+#05915:II00TPILOP00JR00S1IRS51R
+#05916:2000001V0000S000001V0000
+#05918:RYIJON00TO001M00Z120JS00
+#05919:OL00210018001800OT001Q00
+
+#06001:00
+#06001:00
+#06001:1X
+#06001:1K1H
+#06001:2320
+#06001:00
+#06001:00
+#06001:CO
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06001:00
+#06011:TUOY0000JVZ1S4P41U001800
+#06012:JT00JU0000P2JW00181VS9P8
+#06013:S2IV00P000IZTVJ100P600J5
+#06014:IU00S3IXZ100J000S5J3JY00
+#06015:OX00Z100IY00P300JX00P7Z1
+#06016:1M1T
+#06018:1800IW00P1001800P521J400
+#06019:1S00OZ00S7001O00J200Z100
+
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06101:00
+#06111:1800180018001800180018PC
+#06112:P91800180018PB1800180018
+#06113:00J70000J6PA0000PB9UPB00
+#06114:J6PA00J700J7009S00J9009W
+#06115:0000J600P9009R009T009V00
+#06116:0R0R0R0R0R0R0R0R0R0R0R0R
+#06118:009MP99O009Q00J900PC00J9
+#06119:9L009NPA9P00J8PCJ800J800
+
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:00
+#06201:TC
+#06211:180000000000SJ00000000001800000000000T00000000001800000000000U00000000001800000000000U0000000000
+#06212:TW00000X00000000000000001B0000000000SF00000G00000Z000000NL000000000000001B0000000000SJ0000140000
+#06213:7J0000000000Z100000000000Y000000NI000000000000000H00001000000000NK0000001200007R00000000NM000000
+#06214:SD000000NJ00000000Z10000SI00000000007K0000000000NK00000000000J0000000000NM00000000007S0000000000
+#06215:0W00000000000T0000000000NJ00000000000000007L00000000000I00000000007P0000SG000000NN000000000M0000
+#06216:0S
+#06218:NI00000000000000NI000000000000Z100000F00000000007M00000000007O00001100000K00001300000000007T0000
+#06219:0C00000000000D00000000000E00000000000000NJ000000SL00007N0000SK00000000007Q00000000000L0000000000
+
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06301:00
+#06311:1800000000000D00000000001800000000000000NT000000SE00000000000J0000000000830000000000SC0000000000
+#06312:SI00000X00000000NQ000000SI000000NS000000000G00000H0000008100000000000000180000000000000000140000
+#06313:0C000000NP000000000000007X000000000000007Z0000000Z00001000000000NW00000012000000NY00000000000000
+#06314:0W00000000000U0000000000NR00000000000U00000000001800000I0000SH0000000000NX00000000000000NZ000000
+#06315:NO0000000000SF0000Z100000E0000007Y0000000017000000000000NV000000001100000K00000084000L00000M0000
+#06318:000000007V000000000000001B00000000000F0000000000NU00000000000U00000000001B0000130000000085000000
+#06319:7U000000000000007W0000000Y0000160000SH0000000000800000000000000082000000SG00000000000U0000000000
+
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06401:00
+#06411:180000000000Z10000000000180000000000SF00000000001800000000000U00000000001800000000000U0000000000
+#06412:SD00000X0000000000000000O100000000000000000G0000000000100000000000110000SG000000O600000000140000
+#06413:O000000000000000O0000000SI000000O000000000000000O200000000000J00000000001B00000000000000O7000000
+#06414:000000Z10000SJ0000Z100000E00000000000T00000000000Z00008800000000O40000001200001300000000008E0000
+#06415:0C00000000000T0000000000000000Z10000000000000000870000000000890000000000O500000000008D0000000000
+#06418:0W000000O1000000000000000Y00000000000000O1000000SL000000O3000000008A00000K00008C0000SJ00000M0000
+#06419:8600000000000D00000000001B00000000000F00000000000H00000I0000SK00000000008B00000000000L0000000000
+
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06501:00
+#06511:1800000000000D00000000001800000000000U0000000000180000000000000000000000180000000000SC0000000000
+#06512:SI00000X0000SF00000000008G00000000000F00000000000H00001000000000OC0000001B000000OE000000000M0000
+#06513:0C0000Z10000000000Z10000SI0000008H000000000000008J00000000000U00000000008K00000000000U0000000000
+#06514:0W00000000000000O80000000E000016000000008I000000SE000000OB000000000000001200008L00000000OF000000
+#06515:8F00000000000U00000000001B0000000000SH0000170000OA0000000000000000110000SG00000000008M0000000000
+#06518:00000000O900000000000000O900000000000000O90000000000000000000J0000000000OD00000000000L00008N0000
+#06519:O80000000000Z100000000000Y000000O8000000000G00000Z00000I0000SH0000Z100000K0000130000000000140000
+
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06601:00
+#06611:180000000000SJ00000000001800000000000T00000000001800000000000000OI000000SG000000OI00000000140000
+#06612:0W0000Z10000000000Z10000000000Z10000000000Z100000Z00000000000U0000000000180000000000SJ0000000000
+#06613:OG00000000000000OG000000SI000000OG000000000000000000001000000000001100001200008Q00000L00000M0000
+#06614:SD000000OH000000000000000Y00000000000F0000000000OI00000000000J00000000008P00000000000000OK000000
+#06615:0C00000000000T00000000001B00000000000000OH000000SL000000OJ000000000000000K00000000008R0000000000
+#06618:0000000X0000000000000000OH0000000000Z100000000000H0000000000SK0000000000OJ00001300000000008S0000
+#06619:8O00000000000D00000000000E0000000000SF00000G00000000000I00000000000000001B00000000000U0000000000
+
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06701:00
+#06711:0C0000008U00000000000000180000000000SH00000G0000000000100000SH00000000001800000000000L0000000000
+#06712:1800000000000U0000000000OO000000000000008Y0000000H000000OS000000000000001B00000000000000OW000000
+#06713:SI000000OM000000000000008W00000000000U0000000000OR00000000000U00000000009200000000000U0000000000
+#06714:0000000X0000SF0000Z100000E000000OP00000000170000SE00000090000J0000000000OU0000000000000094000000
+#06715:OL00000000000000ON000000SI0000008X000000000000008Z00000000000000OT000000120000130000SC0000000000
+#06718:0W000000000000008V0000000Y00001600000000OQ0000000Z00000I0000000000110000SG00000093000000000M0000
+#06719:8T0000000000000D00000000001B000000000F00000000001800000000000000910000000K000000OV00000000140000
+
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06801:00
+#06811:1800000000000T0000000000180000000000SF00000000001800000000000U00000000001B00000000000U0000000000
+#06812:0C000000OY000000000000001B00000000000000009C00000000009E00000J00000000009H00000000000000P8000000
+#06813:950000000000SJ00009800000E00000000009B0000000000P300000000000000P5000000SG0000130000SJ00000M0000
+#06814:SD00009600000D0000000000P000000000000T00000000000H00000I00000000001100000K000000P700000000140000
+#06815:OX00000000000000OZ000000SI000000P1000F00000000009D00000000009F00000000001800000000000L0000000000
+#06818:0000000X0000000000Z100000Y00009A00000000000G00000Z000000P4000000009G00001200009I00000000009K0000
+#06819:0W00000000009700000000009900000000000000P2000000SL0000100000SK0000000000P600000000009J0000000000
+
+#06911:180018181818
+#06912:001800180018001800180018
+#06913:001800PBPBPB
+#06914:00PA00PA00PA009S009U009W
+#06915:P9P9P99R009V
+#06916:0R0R0R0R0R0R0R0R0R0R0R0R
+#06918:009M009O009Q00009T0000PC
+#06919:9L009N009P0000PC00PC0000
+
+#07001:00
+#07001:00
+#07001:00
+#07001:001Z
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00
+#07001:00K0
+#07001:00
+#07001:JZ
+#07001:00
+#07001:00
+#07001:00
+#07001:PD
+#07001:00
+#07011:18000018PF18
+#07012:ED00001OSPK2
+#07013:9X0000CP18CS
+#07014:SN0000SO00SQ
+#07015:CO00009YCRA0
+#07016:0S00000R0R0R
+#07018:1O0000EEK1PG
+#07019:1Z0000PE9Z00
+
+#07101:00
+#07101:00
+#07101:00
+#07101:1Z
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07101:K3K6
+#07101:00
+#07101:00
+#07101:00
+#07101:00
+#07111:1O00000018000000ST0000001800000000004V0000000000
+#07112:18000000CS00000018000000EG0000000000000000000000
+#07113:SR000000PI0000004R0000004S0000000000000000000000
+#07114:CO000000A2000000CT000000SN0000000000000000000000
+#07115:EF000000SS000000PJ000000CO000000000000000000SU00
+#07116:0R0000000R0000000R0000000S0000000000000000000000
+#07118:A1000000K4000000A3000000PK00000000000000000000SV
+#07119:PH00000000000000K5000000A40000000000000000000000
+
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07201:00
+#07211:18000000XF000000000000XM000000000000XT000000SX00
+#07212:K700000000XG000000000000XN000000000000XU000000SY
+#07213:PL0000000000XH000000000000XO000000000000XV000000
+#07214:XB000000000000XI000000000000XP000000000000XW0000
+#07215:00XC000000000000XJ000000000000XQ000000000000XX00
+#07216:4W
+#07218:EH00XD000000000000XK000000000000XR000000000000XY
+#07219:SW0000XE000000000000XL000000000000XS000000000000
+
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07301:00
+#07311:CU00UV0000000000V100000000000000
+#07312:EI0000UW000000000000V20000000000
+#07313:SZ000000UX0000V000000000V3000000
+#07314:K800000000UY00000000TX000000V400
+#07315:PM0000000000UZ0000000000TY000000
+#07318:1N00000000000000000000000000TZ00
+#07319:UU000000000000000000000000000000000000000000T0T1
+
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07401:00
+#07411:PN00V6000000000000000000000000000000000000000000VE0000000000000000000000000000000000000000000000
+#07412:EJ000000V7000000000000000000000000000000000000000000000000000000000000000000000000000000T3000000
+#07413:K90000000000V8000000000000000000000000000000000000000000000000000000000000000000000000000000T400
+#07414:T200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000TZ
+#07415:PS0000000000000000V9000000000000000000000000000000000000000000000000000000000000VC00000000000000
+#07418:V50000000000000000000000000000000000000000000000000000000000000000000000VB0000000000000000000000
+#07419:U000000000000000000000000000000000000000000000000000000000000000VA000000000000000000000000000000
+
+#07501:00
+#07501:00
+#07501:00
+#07501:4E
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07501:00
+#07511:DM0000000000000000000000PP00000000000000000000SV
+#07512:KA0000000000000000000000T80000VJ0000000000000000
+#07513:VD0000000000000000VH0000KB000000000000000000SU00
+#07514:T50000000000VF00000000000000000000000000000000TZ000000000000000000000000000000000000000000000000
+#07515:U10000000000000000000000VG0000000000000000000000VI00000000000000000000000000000000000000000000U3
+#07516:PT000000000000000000T600PU0000000000VK0000000000
+#07518:PO00000000000000000000T7U20000000000000000VL0000
+#07519:EK0000000000000000000000EL0000000000000000000000
+
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07601:00
+#07611:KC0000000000000000000000000000000000000000000000VT0000000000000000000000000000000000000000000000
+#07612:0000VN0000000000000000000000000000000000VS000000000000000000000000000000000000000000000000000000
+#07613:VM000000000000000000000000000000VR00000000000000000000000000000000000000000000000000000000VY0000
+#07614:SW0000000000000000000000VQ0000000000000000000000000000000000000000000000000000000000VX0000000000
+#07615:PV00000000000000VP000000000000000000000000000000000000000000000000000000000000VW0000000000000000
+#07616:EM
+#07618:PQ000000VO00000000000000000000000000000000000000000000000000000000000000VV0000000000000000000000
+#07619:U40000000000000000000000000000000000000000000000000000000000000000VU0000000000000000000000000000
+
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07701:00
+#07711:EN000000000000W60000000000000000
+#07712:VZ0000W500000000
+#07713:PR00000000W400000000000000000000
+#07714:1N00W3000000PX00
+#07715:PW0000W2000000000000000000000000
+#07718:00W1000000000000
+#07719:00W0000000000000UT00000000000000
+
+#07801:00
+#07801:00
+#07811:180018000000LSQL
+#07812:700000000000LP000000QL00000000QJ
+#07813:GAQJ0000LQ0000A5
+#07814:QI000000LO00QJ000000LR000000003C
+#07815:LN0000000000QK0000000000QI000000000000000000003D
+#07816:24000000000000LT
+#07818:M100M20000M3003B
+#07819:0Q0Q00QM
+
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07901:00
+#07911:003E00000000LV0000A80000QK0000000000180000000000LY0000A800000O000000003VM600001800000O0000180000
+#07912:0P0000000000A7000000000018000000003M0000000000003P0000000000180000000000180000000000M7003Z000000
+#07913:QI0000000000000000180000LW003L000000LX003N000000000000180000TY0000AA0000U50000003X00QL0000AF0000
+#07914:00003F000000QJ00000000003K0000000000M50000000000QI0000000000A90000000000003W00000000003Y00000000
+#07915:180000003G00000000003J00000000AA00000P0000000000003Q00000000LZ00000000000O0000AD0000TZ0000M80000
+#07916:LU0000M0
+#07918:M400000000003H00000O0000A90000000000QJ00003O00000000003R00000O00003U0000QM00000000001800000O0000
+#07919:A6000000000000003I0000000O0000000000AB0000000000A7000000003S003T00000000AC0000000000AE0000QJ0040
+
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:00
+#08001:D7
+#08001:U0
+#08011:QI000000U700LP00AI00QL00LS001800
+#08012:1800QJ00180000000000AJ000000QL00
+#08013:LN000000QK00QJ00000000AK000000QJ
+#08014:M1000000M200000000001800AL00LT00
+#08015:GA000000LO000000QI00000000AM0000
+#08016:260000000Q00000000000P000O000O00
+#08018:AG000000AH000000LQ00LR001800AN00
+#08019:0Q00TY00000000000000M300QM0000AO
+
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08101:00
+#08111:4F00LV0000180000LY00LZ00M018TZ00
+#08112:M40000180000QJ0000AA0000TY0000QJ
+#08113:1800QJ000000LX00AS00TX0000ADM718
+#08114:QI1800AP00AR00000000QL00180000AF
+#08115:AA000000AQ00M500QI000000QM00QL00
+#08116:0O0P000O000O0P000O000O000O0O0O0O
+#08118:00AB0000LW00AB001800AB00M60018M8
+#08119:LU000000QK00180000001800AE00AE00
+
+#08201:27
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:00
+#08201:D8
+#08211:180000000000U20000000000180000000000000000000000AT0000000000QL00000000001800000000001800000O0000
+#08212:U00000000000000000000000U60000000000000000000000000000AU0000000000000000LS0000000000003E00000000
+#08213:QI0000000000QJ0000000000000000000000U20000000000QI0000000000AV00000000000000003C000000003F000000
+#08214:LN0000000000000000000000QK0000000000000000000000000000000000000000AW00000P0000003D000O0000003G00
+#08215:M10000000000LQ0000000000M20000000000QJ0000000000000000000000M30000000000AX0000000000LT0000B00000
+#08216:0Q00000000000000000000000Q0000000000000000000000000000000000000000000000QM0000000000000000QJ0000
+#08218:GA0000000000000000000000LO0000000000LP0000000000000000000000LR00000000003B0000000000AZ0000000000
+#08219:AG0000000000000000000000AH0000000000000000000000000000000000000000000000180000AY0000QL0000180000
+
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08301:00
+#08311:3H0000000000QJ0000000000180000000000180000000000180000000000LZ0000003B00M600000000003F0000000000
+#08312:00003I00000000000000003B0000000000003E0000000000QI000000003K000000000000U50000AD0000TZ0000180000
+#08313:LU0000180000LV0000AP0000QK0000AR0000QJ0000000000B10000000000180000000000003C00000000180000M80000
+#08314:QI0000003J000000000O000000003C000000M5000000003H000000000000003L00000000M0003D000000QL0000AF0000
+#08315:4G0000000000000000180000LW00003D0000LX00003G0000003I00000000AB0000000000180000000000AE0000QJ0000
+#08316:0000000P00000000000000000000000000000P00000000000000000000000P00000000000O00000000000O00000O0000
+#08318:AA00000000003K0000000000A90000000000003F000000000O00003J0000QL0000000000AC000000003E000000003H00
+#08319:M40000AB000000003L0000000O0000000000AB0000000000LY0000000000TY0000000000QM0000180000M7003G000000
+
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:00
+#08401:D9
+#08411:18000000180000000000180000000000
+#08412:QI000000LO00QJ000000GB00000000QJ
+#08413:2E0000002F000000QI002G000000QL00
+#08414:LN000000TY000000QK0000000000000000000000LR00000000000000000000DA
+#08415:M1000000M2000000LQ000000LS000000
+#08416:0Q0000000Q00000000000Q0000000000
+#08418:GA00QJ00U700LP000000M300QM000000
+#08419:AG000000B20000000000QL000000LT00
+
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08501:00
+#08511:18000000000018000000000018001800
+#08512:2H0000000000QJ0000000000GD00M7QJ
+#08513:LU00000000000000LW0000002I00000000000000000000002J0000002L0000D8
+#08514:GC0000000000000000000000GC00000000000000000000DCQM000000QL000000
+#08515:M40000000000M5000000QL00M0180018
+#08516:0Q00000000000Q000000LZ000O0O0O0O
+#08518:QI00000000000000QK0000DB00000000LY00000000000000M60000000000M800
+#08519:0000QJ000000LX00QI0000002N2K002M
+
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08611:180018LP180018QL
+#08612:LN0000000000QJ001200QL00120000QJ
+#08613:4K00LO00W800LS00
+#08614:M100M2W700W900LT
+#08615:GA000000LQLRWA32
+#08616:0Q000Q0000000000
+#08618:QI00QK00QIM300WB
+#08619:00QJ0000000VQM0V
+
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08701:00
+#08711:1800QJ0018000V001800QL001800M700
+#08712:4L00340000WH00000000LZ001200QL00
+#08713:WC0000WF0000QJ0000WK0000M000WN00
+#08714:33WD0000LW00000036000000LX000000QI00000000000000WM0000000000QJ00
+#08716:12121200
+#08715:QI00WE00WG003700LY00WL003A0000M8
+#08718:LU000V350000M500WJ003900M6000000
+#08719:M400LV00QK00WI0038000V00QM000V00
+
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08801:00
+#08811:180000001800LP001800000018000V00
+#08812:12000V000000QJ001200QL001200QL00
+#08813:LN000000LO000000LQ00LR00WT0000QJ
+#08814:D900QJ0000000V00QI000VWS0000WV00
+#08815:GA000000QK00WO000000M30000WU00WW
+#08816:4M
+#08818:QI000000120000WP0000WR00LS003200
+#08819:M1000000M2000000WQ000000QM00LT00
+
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08901:00
+#08911:180034001800LX001800X4001800QL00
+#08912:3300U700LW00QJ00QS00QL00QR000VQJ
+#08913:1N000V35WZ000V00X2X30V00MBX70000
+#08914:QI00LV00TY00X0X1000000X5X600M700
+#08915:4N0000WY0000M500U800MA003A0000M8
+#08916:12121212
+#08918:LU00QJ003600U000M900U900MC00UA00
+#08919:M4000000WX000000QK000000370000003800000039000000U5000000X80000DD
+
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:X9
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:00
+#09001:4P
+#09011:18000000000000001800000000000000180000000000000018000000TE0000DE
+#09012:GA00QJ000000QJ001200QL00000000TF
+#09013:QI00MEMF000V12GE
+#09014:MD000V0000000000MG000000MI00MJGF
+#09015:1200N600QIMH00QL
+#09016:4O
+#09018:N500120V0000QM0V
+#09019:U000QK0000N70032
+
+#09101:00
+#09101:00
+#09101:00
+#09101:12120000
+#09101:00
+#09101:00
+#09101:00
+#09101:2U
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09101:00
+#09111:18QN18MN18QP1800
+#09112:N80V360V383912QP
+#09113:QITHMM37TJMP3AMR
+#09114:MK34QKN9GJTHMQTH
+#09115:GGGHTGQNMOGKTGGK
+#09116:000000NA
+#09118:TGMLGGTIQO00GG00
+#09119:3300000000003500000000DFGI000000120000000V0000DGQQ0000000V0000DH
+
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09201:00
+#09211:1818181818181818
+#09212:NB00000000000000NC000000R600000000000000QV00000000000000000000DK
+#09213:MS000000QS0000DI00000000MU00000000000000ND00000000000000QV000000
+#09214:GL00000000000000GM00000000000000QU0000DJ00000000GO00000000000000
+#09215:TK00TK0000TL00GP
+#09216:2V1N
+#09218:QR00MT00MVGN0000
+#09219:0000QT0000MWQW00
+
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09301:00
+#09311:18001800180018001800000000000000
+#09312:GQ00QV00GU00QV00GY00000000000000
+#09313:QXGR001800GV0018TN00000000000000
+#09314:NE00GS00N000GW002S00000000000000
+#09315:001800GT00N100GXQY00000000000000
+#09316:2Q2R
+#09318:TM000000MY000000QW000000N20000DLN4000000000000000000000000000000
+#09319:MX0000MZ001800N3NF00000000000000
+
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09401:00
+#09411:4E000000000000000000480000004A00
+#09412:DM000000430000004600000049000000
+#09413:0000FA000000FC000000FE000000FG00
+#09414:000000000000000000000000000000FH
+#09415:F900420000000000FD00000000000000
+#09418:00000000FB000045004700000000004B
+#09419:410000000000440000000000FF000000
+
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09501:00
+#09511:4C00000000004400460000000000004B
+#09512:4Q000000000000450000000000000000
+#09513:0000FA000000FC000000FE000000FG00
+#09514:00004D000000000000000000490000FH
+#09515:F900000000000000FD00480000000000
+#09518:00000000FB0000000047000000004A00
+#09519:000000004300000000000000FF000000
+
+#09601:00
+#09601:00
+#09601:00
+#09611:0000420000000000000048000000004B
+#09612:41000000000000000000000049000000
+#09613:0000FA000000FC000000FE000000FG00
+#09614:000000004300000000000000000000FH
+#09615:F900000000004400FD00000000004A00
+#09618:00000000FB0000450047000000000000
+#09619:000000000000000046000000FF000000
+
+#09711:00000O000O000O00000O000O000O0000
+#09712:0000000O00000000000000001900000073001900000000000O00000000000000001900000000001900000000000O0000
+#09713:7100001900000000000O00000000000000001F00000000001900000000000O00000000000000001F0000000000190000
+#09714:001F0019000O00001F0019000O00001F
+#09715:0O00000000000000001F00000000001900000000000O00000000000000001F00000000001900000000000O0000000000
+#09718:1900000000001900720000000000001F00000000001900007400001900000000000000001F0000000000190000000000
+#09719:1F001F001F00001F001F001F00001F00
+
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09801:00
+#09811:T9000000000000004I18001F00181F00
+#09812:0000000000TA000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LG0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000LH0000000000000000000000000000000000000000000000CE0000000000000000000000
+#09813:0000000000TB000000000000000000000000000000000000000000000000000000000000000000000000000000000000CA0000000000180000000000LH00000000000000000000001F0000000000000000000000LI0000000000000000000000
+#09814:4H0000000000000018CE18LI001F18LJ
+#09815:LK00000000000000LF00CG00LJ00CG00
+#09816:F7000000000000000O0O0O0O0O0O0O0O
+#09818:00LL000000000000000000000000000000001F000000CI001800CI0000001F00
+#09819:00LM0000000000001F001F18CK000018
+
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:00
+#09901:0W
+#09901:0C
+#09911:1800C20000C4000018000J0018000L00
+#09912:PZC700C70016C700C4100UCA0KCB0014
+#09913:CA000000CA0000CA00C70000L200CD00
+#09914:EP0X000018000U00KZ00CA0000L3000M
+#09915:KE000U000Y00001700L000L01200L000
+#09916:0S
+#09918:TD000D001B000F000H00L1001B1300L1
+#09919:B400Z1000E00000G0Z0I0011CB000UCD
+
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:00
+#10001:UB
+#10011:180000000000000000000000C300000000000000000G0000ER000000B7000000ES00000018000000ET000U00000M0000
+#10012:KF0000000000000000C60000000000C60000000000000000180000000000C60000000000B900000000000L0000000000
+#10013:B50000000000C900000000000Y0000000000Z10000000000KG00000I00000000KH000000120000C60000000000C90000
+#10014:EQ0000CB0000000000Z100000000000000000T00000000000H00001000000000B80000000K000000KI00000000140000
+#10015:CE00000000000T0000000000180000000000000000C900000Z0000C900000J00001100001B00001300000000BB000000
+#10016:Q00000Q1Q2Q3
+#10018:0W00000000000D00000000001B0000000000CE0000000000B60000000000000000CD000000000000BA00000000000000
+#10019:0C00000X00000000000000000E00000000000F0000000000CB00000000000U0000000000C90000000000CE0000000000
+
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10101:00
+#10111:0WC600C60016Q5CB0HC500Z100Z10014
+#10112:1800Z100180000KL0Z00C700180000CD
+#10113:Q400CB000EC80UQ6KM0I00C700CB0000
+#10114:KJ00Z1001B00KK0GBF000U00CB000U00
+#10115:0C0X0000CE000FBEQ71000001B00CD00
+#10116:EUEV
+#10118:CE000U000000BD17CD0000111213000M
+#10119:BC000D000Y00CD0018000J000K000L00
+
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10201:00
+#10211:EW00C8001800000G00C100C20KC2000M
+#10212:Q8CA00000E00Z100C200C2001200C800
+#10213:1800Z1001B000F00L400L500C71300C8
+#10214:CE0000Z100C60000BT0IBU00L6000U00
+#10215:KN000T00CA000T0018000U00BV00L700
+#10216:0C
+#10218:0W0X00CE000000CA0Z100J001B00BW14
+#10219:BG000D000Y00CI000H00001118000L00
+
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:00
+#10301:Q90000000000000000000000QA000000
+#10301:000000KP
+#10301:0C
+#10311:18000U00180000C7000I00C40K130U00
+#10312:L8C700CA0Y00C000C400LC0012C7000M
+#10313:0W000D001BCA00171800BI00LD0000CA
+#10314:BX000000BZ00CF000Z000J00CA00LE00
+#10315:C900BY00CG16LB0000CC0U00BJ00CG00
+#10316:EX0000EY
+#10318:BH0XCH00LA000U000H0000111B00BK14
+#10319:KO00L9000E000F0G0010CF0018000L00
+
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00
+#10401:00QC
+#10401:00
+#10401:QB0000QD
+#10401:00
+#10401:00
+#10401:00
+#10411:18001800180018001800180018001800
+#10412:0N0X00Z100C60000KR000U001B000014
+#10413:EZ00C6000E0000CCF0C6001112130U00
+#10414:0WC900000Y000T000Z00C900KS000L00
+#10415:KQ000D001B000F00BN0000CEF1CL00CL
+#10416:0C000H0K
+#10418:CH0000C30000CE00CE100J00CL00CL00
+#10419:YZ000T00C900000G000I0000BO00000M
+
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10501:00
+#10511:180018001800QF0OF3CN1800180018F6
+#10512:F2CM00CM0018G518G700CN000OCNCA00
+#10513:G4000O00CM0018QG1800G8CNF50OF518
+#10514:BP00CM00000OCFBRCN0OF4G800F50OCD
+#10515:CM1800000O00BQCEBS000OF5G900G800
+#10518:0O00000O00CM00G6QH180018CNG900G9
+#10519:QE0O001800000O000O00000O0018000O
+
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:00
+#10601:0C
+#10611:180000C60000Z100CA100J0018000U00
+#10612:KD00C80000C800Z100CE00111B0000CE
+#10613:EOCA0000C2000F00KU00CG001200CG00
+#10614:B3000T000Y0000C80ZKV00CI0KCI00KV
+#10615:CG00Z1001800000G0000KW00CK00KW0M
+#10616:0S
+#10618:PY000D000E00CE000H0I00KX00KX0014
+#10619:0W0X00001B000T0018000U00KY130L00
+
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10701:00
+#10711:1800C2000016000G0Z0I000018000U00
+#10712:PZC700C700C4001718000U00L2130L0M
+#10713:CA0000001800C700C40000CA00L30014
+#10714:0W00Z100CA0000CA00C70J00CB00CD00
+#10715:KE000D000Y000U00KZ00CA110KCB00CD
+#10716:0C
+#10718:B4000U001B00Z10000L000L01200L000
+#10719:EP0X00000E000F000H10L1001B0000L1
+
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10801:00
+#10811:180000000000Z10000000000C30000000000000000Z10000Q1000000B7000000Q2000000B9000000Q3000000BB000000
+#10812:0W00000X0000000000000000000000C60000000000000000180000000000C600000000001800000000000U0000000000
+#10813:KF0000000000000000C600000000000000000T0000000000KG00000000000000KH000000000000C600000L0000000000
+#10814:B50000000000C900000000001B0000000000000000C900000H0000C900000J0000110000C9000000Q300000000C90000
+#10815:0C0000CB00000000000000000Y0000000000CE0000000000B60000000000000000CD000012000000KI00000000000000
+#10816:EQ0000000000000000000000000000000000000000000000ER00000I00000000ES00000000000000ET00000000140000
+#10818:CE00000000000T00000000001800000000000000000G00000Z00001000000000B80000000K0000130000CE0000000000
+#10819:Q000000000000D00000000000E00000000000F0000000000CB00000000000U00000000001B000000BA000000000M0000
+
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10901:00
+#10911:0CC60000180000CB0HC500001800Z100
+#10912:180000C600160UQ6CD00C70000CB000M
+#10913:KJ00CB000EC8Q5KLQ7100011001300CD
+#10914:Q40X00001B00KK0GKM0I00C71200Z200
+#10915:0W00Z100CE000FBE0Z00Z100CB00CD00
+#10916:EUEV
+#10918:CE000U000Y00BD17BF000U001B000U14
+#10919:BC000D000000CD0018000J000K000L00
+
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11001:00
+#11011:1800Z1001800000G0HC100C21200000M
+#11012:0C0000Z10E000F00C200C2000KC20L00
+#11013:EWCA000000C60000L400L500180000C8
+#11014:CE00C800CA00Z100BT0I0011L6130U00
+#11015:KN0X00CE00000T001800BU00BV00L700
+#11016:0W
+#11018:Q8000D000Y0000CA0Z000U00C700BW14
+#11019:BG000T001B00CI0000100J001B00C800
+
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:00
+#11101:Q90000QA
+#11101:0C00000K
+#11111:C90X00CA0Y000U00C40000C412C70000
+#11112:18000D000ECA00C70000LC001800000M
+#11113:0WC7000018000F0G00100J11CA130U00
+#11114:BC000U001B00C0000Z0IBI00LD000LCA
+#11115:KO00CH00BZ00LB0018000U00BJ00LE00
+#11116:EX0000EY
+#11118:BH00BY00LA00CF0000CC0000KP00BK14
+#11119:L800L900CG1600170H00CF001B00CG00
+
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:0N
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00
+#11201:00000012
+#11211:18001800180018001800180018001800
+#11212:0C0X00C300C60000F0C600111B000U00
+#11213:0W00C600C9000T00KR00C9000KCL0014
+#11214:EZC900001B0000CC0Z1000CEF113000M
+#11215:KQ0000Z100000F00BN000U00KS000L00
+#11216:QB00QCQD
+#11218:CH000T000Y00CE00CE0I0000CL00CL00
+#11219:YZ000D000E00000G0H000J00BO0000CL
+
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11301:00
+#11311:18001800180018CE1800F418F5001800
+#11312:BP00CM00001800BRQH18000OG9180018
+#11313:0O000000CM00CFQGBS0018G8CN000OF6
+#11314:QECM00CM000OQF18G7CNG80018F5CA00
+#11315:CM000O000OCMG50OF30O00CN000OG8CD
+#11318:G40O000O00000O00CN00CNF500CN00G9
+#11319:F21800180000BQG60O000O000OG9F50O
+
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:00
+#11401:0C
+#11411:18000T00C200Z100181000CI00CI0000
+#11412:PY0X00001800000G000I0J00CK00000M
+#11413:KD0000C60Y000T00KU000U0018000U14
+#11414:B300C8000E0000C80ZKV00111B1300KV
+#11415:EOCA00Z100C80000CA00KW001200KW00
+#11416:0S
+#11418:CG00Z1000000CE0000CE00KX0KKX0LCE
+#11419:0W000D001B000F000H00CG00KY00CG00
+
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11501:00
+#11511:1800C2001800001700C70J001800CD00
+#11512:0CC700C70Y000U00C41000110KCB0L00
+#11513:CA000U0000C400001800CA00L20000CD
+#11514:EP0X0000CA00C700KZ0I00CA00L3000M
+#11515:KE0000Z1001600CA00L000L01200L000
+#11516:PZ
+#11518:0W000D000E000F000H00L100CB1300L1
+#11519:B400Z1001B00000G0Z000U001B000U14
+
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11601:00
+#11611:180000000000Z100000000001800000000000T00000000000Z00000I0000C60000110000120000C600000U0000000000
+#11612:KF0000000000000000000000C300000000000000000G0000ER000000B7000000ES000000B9000000ET000000BB000000
+#11613:EQ00000X0000000000C60000000000C60000000000000000KG00001000000000KH00000000000000KI000000000M0000
+#11614:B50000000000C90000000000000000Z10000000000C900000H0000C900000J00000000001800001300000L0000000000
+#11615:0C0000CB00000000000000000Y00000000000F0000000000B600000000000U0000000000C90000000000000000C90000
+#11616:Q00000Q1Q2Q3
+#11618:0W00000000000T00000000001B00000000000000000000001800000000000000B80000001B0000000000CE0000000000
+#11619:CE00000000000D00000000000E0000000000CE0000000000CB0000000000000000CD00000K000000BA00000000140000
+
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11701:00
+#11711:180000C600C80UCB0ZC500001800Z100
+#11712:Q4C600001800CD001800C7001B00000M
+#11713:KJ00CB000Y00Q5KL0H1000C700CB0014
+#11714:0C0X00Z10E160FQ6KM00Z100CB00CD00
+#11715:0W000U000000KK17BF000U00001300CD
+#11716:EUEV
+#11718:CE000D001B0000BEQ70I001112000U00
+#11719:BC00Z100CE00BD0GCD000J000K000L00
+
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:00
+#11801:0C
+#11811:18001800180000CA0HC10JC21200180M
+#11812:Q800C8001BC60F0G0Z0018111BC20U00
+#11813:1G000T001G000000C200C20018000LC8
+#11814:KN000D00CA001G00BT0IBU00BV001G00
+#11815:EWCA00000Y000T00L400L500C700BW14
+#11816:0W00000K
+#11818:CE001G000E00180018001G00L613L700
+#11819:BG0000CE0000CI001G100U001G00C800
+
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:00
+#11901:Q9
+#11901:0000001B
+#11901:0W000012
+#11901:0C0E000K
+#11911:18001800180018001800180018131800
+#11912:1G001G001BCA0U170Z100JC4KP001G00
+#11913:BXC70U00BZ00C000C40ILC00QAC70UCA
+#11914:KO0X0DCA0Y16LB001G00BI11LD000L14
+#11915:C900BY001G00CF000H001G00BJ00LE00
+#11916:EX0E00EY
+#11918:BH00CH00LA001G0000CC0U00CA00BK00
+#11919:L800L900CG000FC70000CF001G00CG00
+
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:00
+#12001:EZ
+#12001:0C000000000000000H0000000K000000
+#12001:0000000000000000CE000000CL000000
+#12011:1800180018000T18QC180018QD18001F
+#12012:QB1F0T180YC6001F0ZC60U0018001800
+#12013:0W1800C31B001800180018111F000L18
+#12014:1F0X0D00C9001F00KR0IC9001B1F0014
+#12015:KQ001F000E1800CCF01F00CEKS131F0M
+#12016:0NC9000000000F004H100J00F1000U00
+#12018:CH00C6001F00CE0GBN00001F12CL00CL
+#12019:YZ00001F001F00001F001F00BO00CL00
+
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:00
+#12101:0W
+#12101:0C
+#12111:18000D00Z1001817KT00000000000000
+#12112:0Q00Z10000Z1QFG60000000000000000
+#12113:G40X00001B00G50G1800000000000000
+#12114:CM0000Z200160UBRF800000000000000
+#12115:BP00Z2000E00BQ00BS00000000000000
+#12116:4J00000000000PQG0S0000002Z000000
+#12118:F2Z100000Y000FCEQH00000000000000
+#12119:QE000U00Z200CF00CN00000000000000
+
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12201:00
+#12216:4X
+#12219:XZ
+
